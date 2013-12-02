@@ -1,10 +1,14 @@
 #include <cstdio>
 #include <cstring>
+#include <vector>
+#include <algorithm>
+
+using namespace std;
 
 const int MAX_N = 40;
 const int MAX_K = 1000000;
 
-bool computed[MAX_K+1]; // whether A^k has been computed
+vector<bool> computed(MAX_K+1);
 
 struct Matrix
 {
@@ -89,7 +93,7 @@ int main()
     Matrix A, sum;
     A.n = sum.n = N;
     A.read();
-    memset(computed, 0, sizeof(computed));
+    fill(computed.begin(), computed.begin()+K+1, false);
     for ( int i=1; i<=K; ++i ) {
       sum = sum + matrixPower(A, i);
     }
