@@ -4,131 +4,620 @@ UVa Online Judge 基礎題單
 
 1. Introduction
 --------------------------------------------------
-* 10015 - Joseph's Cousin
-* 10114 - Loansome Car Buyer
-* 10141 - Request for Proposal
-* 10189 - Minesweeper
-* 10205 - Stack 'em Up
-* 10284 - Chessboard in FEN
-* 10360 - Rat Attack
-* 10420 - List of Conquests
-* 10443 - Rock
-* 1061 - Consanguine Calculations
-* 10636 - What is the Card?
-* 10646 - What is the Card?
-* 10812 - Beat the Spread!
-* 10813 - Traditional BINGO
-* 10945 - Mother bear
-* 11172 - Relational Operator
-* 11221 - Magic square palindromes
-* 11450 - Wedding shopping
-* 11459 - Snakes and Ladders
-* 11498 - Division of Nlogonia
-* 11507 - Bender B. Rodriquez Problem
-* 11559 - Event Planning
-* 11635 - Hotel booking
-* 11727 - Cost Cutting
-* 11799 - Horror Dash
-* 11947 - Cancer or Scorpio
-* 12060 - All Integer Average
-* 12085 - Mobile Casanova
-* 12247 - Jollo
-* 151 - Power Crisis
-* 156 - Ananagrams
-* 161 - Traffic Lights
-* 195 - Anagram
-* 278 - Chess
-* 305 - Joseph
-* 401 - Palindromes
-* 403 - Postscript
-* 454 - Anagrams
-* 462 - Bridge Hand Evaluator
-* 489 - Hangman Judge
-* 556 - Amazing
-* 573 - The Snail
-* 579 - ClockHands
-* 584 - Bowling
-* 608 - Counterfeit Dollar
-* 637 - Booklet Printing
-* 696 - How Many Knights
-* 893 - Y3K Problem
-* 978 - Lemmings Battle!
+
+[* 10015 - Joseph's Cousin](http://uva.onlinejudge.org/external/100/10015.html)
+[* 10114 - Loansome Car Buyer](http://uva.onlinejudge.org/external/101/10114.html)
+[* 10141 - Request for Proposal](http://uva.onlinejudge.org/external/101/10141.html)
+[* 10189 - Minesweeper](http://uva.onlinejudge.org/external/101/10189.html)
+[* 10205 - Stack 'em Up](http://uva.onlinejudge.org/external/102/10205.html)
+[* 10284 - Chessboard in FEN](http://uva.onlinejudge.org/external/102/10284.html)
+[* 10360 - Rat Attack](http://uva.onlinejudge.org/external/103/10360.html)
+[* 10420 - List of Conquests](http://uva.onlinejudge.org/external/104/10420.html)
+[* 10443 - Rock](http://uva.onlinejudge.org/external/104/10443.html)
+[* 1061 - Consanguine Calculations](http://uva.onlinejudge.org/external/10/1061.html)
+[* 10636 - What is the Card?](http://uva.onlinejudge.org/external/106/10636.html)
+[* 10646 - What is the Card?](http://uva.onlinejudge.org/external/106/10646.html)
+[* 10812 - Beat the Spread!](http://uva.onlinejudge.org/external/108/10812.html)
+[* 10813 - Traditional BINGO](http://uva.onlinejudge.org/external/108/10813.html)
+[* 10945 - Mother bear](http://uva.onlinejudge.org/external/109/10945.html)
+[* 11172 - Relational Operator](http://uva.onlinejudge.org/external/111/11172.html)
+[* 11221 - Magic square palindromes](http://uva.onlinejudge.org/external/112/11221.html)
+[* 11450 - Wedding shopping](http://uva.onlinejudge.org/external/114/11450.html)
+[* 11459 - Snakes and Ladders](http://uva.onlinejudge.org/external/114/11459.html)
+[* 11498 - Division of Nlogonia](http://uva.onlinejudge.org/external/114/11498.html)
+[* 11507 - Bender B. Rodriquez Problem](http://uva.onlinejudge.org/external/115/11507.html)
+[* 11559 - Event Planning](http://uva.onlinejudge.org/external/115/11559.html)
+[* 11635 - Hotel booking](http://uva.onlinejudge.org/external/116/11635.html)
+[* 11727 - Cost Cutting](http://uva.onlinejudge.org/external/117/11727.html)
+[* 11799 - Horror Dash](http://uva.onlinejudge.org/external/117/11799.html)
+[* 11947 - Cancer or Scorpio](http://uva.onlinejudge.org/external/119/11947.html)
+[* 12060 - All Integer Average](http://uva.onlinejudge.org/external/120/12060.html)
+[* 12085 - Mobile Casanova](http://uva.onlinejudge.org/external/120/12085.html)
+[* 12247 - Jollo](http://uva.onlinejudge.org/external/122/12247.html)
+[* 151 - Power Crisis](http://uva.onlinejudge.org/external/1/151.html)
+[* 156 - Ananagrams](http://uva.onlinejudge.org/external/1/156.html)
+[* 161 - Traffic Lights](http://uva.onlinejudge.org/external/1/161.html)
+[* 195 - Anagram](http://uva.onlinejudge.org/external/1/195.html)
+[* 278 - Chess](http://uva.onlinejudge.org/external/2/278.html)
+[* 305 - Joseph](http://uva.onlinejudge.org/external/3/305.html)
+[* 401 - Palindromes](http://uva.onlinejudge.org/external/4/401.html)
+[* 403 - Postscript](http://uva.onlinejudge.org/external/4/403.html)
+[* 454 - Anagrams](http://uva.onlinejudge.org/external/4/454.html)
+[* 462 - Bridge Hand Evaluator](http://uva.onlinejudge.org/external/4/462.html)
+[* 489 - Hangman Judge](http://uva.onlinejudge.org/external/4/489.html)
+[* 556 - Amazing](http://uva.onlinejudge.org/external/5/556.html)
+[* 573 - The Snail](http://uva.onlinejudge.org/external/5/573.html)
+[* 579 - ClockHands](http://uva.onlinejudge.org/external/5/579.html)
+[* 584 - Bowling](http://uva.onlinejudge.org/external/5/584.html)
+[* 608 - Counterfeit Dollar](http://uva.onlinejudge.org/external/6/608.html)
+[* 637 - Booklet Printing](http://uva.onlinejudge.org/external/6/637.html)
+[* 696 - How Many Knights](http://uva.onlinejudge.org/external/6/696.html)
+[* 893 - Y3K Problem](http://uva.onlinejudge.org/external/8/893.html)
+[* 978 - Lemmings Battle!](http://uva.onlinejudge.org/external/9/978.html)
 
 2. Data Structures and Libraries
 --------------------------------------------------
-* 10038 - Jolly Jumpers
-* 10107 - What is the Median?
-* 10172 - The Lonesome Cargo Distributor
-* 10194 - Football (aka Soccer)
-* 10226 - Hardwood Species
-* 10258 - Contest Scoreboard
-* 10264 - The Most Potent Corner
-* 10507 - Waking up brain
-* 1062 - Containers
-* 10720 - Graph Construction
-* 10855 - Rotated square
-* 10901 - Ferry Loading III
-* 10920 - Spiral Tap
-* 10928 - My Dear Neighbours
-* 10954 - Add All
-* 11034 - Ferry Loading IV
-* 11111 - Generalized Matrioshkas
-* 11136 - Hoax or what
-* 11235 - Frequent values
-* 11286 - Conformity
-* 11297 - Census
-* 11308 - Bankrupt Baker
-* 11340 - Newspaper
-* 11402 - Ahoy, Pirates!
-* 11462 - Age Sort
-* 11492 - Babel
-* 11495 - Bubbles and Buckets
-* 11503 - Virtual Friends
-* 11572 - Unique Snowflakes
-* 11581 - Grid Successors
-* 11588 - Image Coding
-* 11629 - Ballot evaluation
-* 11849 - CD
-* 11858 - Frosh Week
-* 11926 - Multitasking
-* 11933 - Splitting Numbers
-* 11988 - Broken Keyboard (a.k.a. Beiju Text)
-* 11991 - Easy Problem from Rujia Liu?
-* 11995 - I Can Guess the Data Structure!
-* 1203 - Argus
-* 12356 - Army Buddies
-* 12532 - Interval Product
-* 146 - ID Codes
-* 291 - The House Of Santa Claus
-* 299 - Train Swapping
-* 336 - A Node Too Far
-* 459 - Graph Connectivity
-* 482 - Permutation Arrays
-* 514 - Rails
-* 594 - One Little, Two Little, Three Little Endians
-* 599 - The Forrest for the Trees
-* 673 - Parentheses Balance
-* 727 - Equation
-* 732 - Anagrams by Stack
-* 793 - Network Connections
-* 855 - Lunch in Grid City
-* 908 - Re-connecting Computer Sites
-* 978 - Lemmings Battle!
+
+[* 10038 - Jolly Jumpers](http://uva.onlinejudge.org/external/100/10038.html)
+[* 10107 - What is the Median?](http://uva.onlinejudge.org/external/101/10107.html)
+[* 10172 - The Lonesome Cargo Distributor](http://uva.onlinejudge.org/external/101/10172.html)
+[* 10194 - Football (aka Soccer)](http://uva.onlinejudge.org/external/101/10194.html)
+[* 10226 - Hardwood Species](http://uva.onlinejudge.org/external/102/10226.html)
+[* 10258 - Contest Scoreboard](http://uva.onlinejudge.org/external/102/10258.html)
+[* 10264 - The Most Potent Corner](http://uva.onlinejudge.org/external/102/10264.html)
+[* 10507 - Waking up brain](http://uva.onlinejudge.org/external/105/10507.html)
+[* 1062 - Containers](http://uva.onlinejudge.org/external/10/1062.html)
+[* 10720 - Graph Construction](http://uva.onlinejudge.org/external/107/10720.html)
+[* 10855 - Rotated square](http://uva.onlinejudge.org/external/108/10855.html)
+[* 10901 - Ferry Loading III](http://uva.onlinejudge.org/external/109/10901.html)
+[* 10920 - Spiral Tap](http://uva.onlinejudge.org/external/109/10920.html)
+[* 10928 - My Dear Neighbours](http://uva.onlinejudge.org/external/109/10928.html)
+[* 10954 - Add All](http://uva.onlinejudge.org/external/109/10954.html)
+[* 11034 - Ferry Loading IV](http://uva.onlinejudge.org/external/110/11034.html)
+[* 11111 - Generalized Matrioshkas](http://uva.onlinejudge.org/external/111/11111.html)
+[* 11136 - Hoax or what](http://uva.onlinejudge.org/external/111/11136.html)
+[* 11235 - Frequent values](http://uva.onlinejudge.org/external/112/11235.html)
+[* 11286 - Conformity](http://uva.onlinejudge.org/external/112/11286.html)
+[* 11297 - Census](http://uva.onlinejudge.org/external/112/11297.html)
+[* 11308 - Bankrupt Baker](http://uva.onlinejudge.org/external/113/11308.html)
+[* 11340 - Newspaper](http://uva.onlinejudge.org/external/113/11340.html)
+[* 11402 - Ahoy, Pirates!](http://uva.onlinejudge.org/external/114/11402.html)
+[* 11462 - Age Sort](http://uva.onlinejudge.org/external/114/11462.html)
+[* 11492 - Babel](http://uva.onlinejudge.org/external/114/11492.html)
+[* 11495 - Bubbles and Buckets](http://uva.onlinejudge.org/external/114/11495.html)
+[* 11503 - Virtual Friends](http://uva.onlinejudge.org/external/115/11503.html)
+[* 11572 - Unique Snowflakes](http://uva.onlinejudge.org/external/115/11572.html)
+[* 11581 - Grid Successors](http://uva.onlinejudge.org/external/115/11581.html)
+[* 11588 - Image Coding](http://uva.onlinejudge.org/external/115/11588.html)
+[* 11629 - Ballot evaluation](http://uva.onlinejudge.org/external/116/11629.html)
+[* 11849 - CD](http://uva.onlinejudge.org/external/118/11849.html)
+[* 11858 - Frosh Week](http://uva.onlinejudge.org/external/118/11858.html)
+[* 11926 - Multitasking](http://uva.onlinejudge.org/external/119/11926.html)
+[* 11933 - Splitting Numbers](http://uva.onlinejudge.org/external/119/11933.html)
+[* 11988 - Broken Keyboard (a.k.a. Beiju Text)](http://uva.onlinejudge.org/external/119/11988.html)
+[* 11991 - Easy Problem from Rujia Liu?](http://uva.onlinejudge.org/external/119/11991.html)
+[* 11995 - I Can Guess the Data Structure!](http://uva.onlinejudge.org/external/119/11995.html)
+[* 1203 - Argus](http://uva.onlinejudge.org/external/12/1203.html)
+[* 12356 - Army Buddies](http://uva.onlinejudge.org/external/123/12356.html)
+[* 12532 - Interval Product](http://uva.onlinejudge.org/external/125/12532.html)
+[* 146 - ID Codes](http://uva.onlinejudge.org/external/1/146.html)
+[* 291 - The House Of Santa Claus](http://uva.onlinejudge.org/external/2/291.html)
+[* 299 - Train Swapping](http://uva.onlinejudge.org/external/2/299.html)
+[* 336 - A Node Too Far](http://uva.onlinejudge.org/external/3/336.html)
+[* 459 - Graph Connectivity](http://uva.onlinejudge.org/external/4/459.html)
+[* 482 - Permutation Arrays](http://uva.onlinejudge.org/external/4/482.html)
+[* 514 - Rails](http://uva.onlinejudge.org/external/5/514.html)
+[* 594 - One Little, Two Little, Three Little Endians](http://uva.onlinejudge.org/external/5/594.html)
+[* 599 - The Forrest for the Trees](http://uva.onlinejudge.org/external/5/599.html)
+[* 673 - Parentheses Balance](http://uva.onlinejudge.org/external/6/673.html)
+[* 727 - Equation](http://uva.onlinejudge.org/external/7/727.html)
+[* 732 - Anagrams by Stack](http://uva.onlinejudge.org/external/7/732.html)
+[* 793 - Network Connections](http://uva.onlinejudge.org/external/7/793.html)
+[* 855 - Lunch in Grid City](http://uva.onlinejudge.org/external/8/855.html)
+[* 908 - Re-connecting Computer Sites](http://uva.onlinejudge.org/external/9/908.html)
+[* 978 - Lemmings Battle!](http://uva.onlinejudge.org/external/9/978.html)
 
 3. Problem Solving Paradigms
 --------------------------------------------------
 
+10102 - The path in the colored field
+10304 - Optimal Binary Search Tree
+10306 - e-Coins
+10309 - Turn the Lights Off
+10337 - Flight Planner
+10341 - Solve It
+1047 - Zones
+10487 - Closest Sums
+10496 - Collecting Beepers
+10503 - The dominoes solitaire
+10567 - Helping Fill Bates
+10576 - Y2K Accounting Bug
+10616 - Divisible Group Sums
+10656 - Maximum Sum (II)
+10660 - Citizen attention offices
+10684 - The jackpot
+10718 - Bit Mask
+10721 - Bar Codes
+10755 - Garbage Heap
+108 - Maximum Sum
+10819 - Trouble of 13-Dots
+10827 - Maximum sum on a torus
+10943 - How do you add?
+10976 - Fractions Again?!
+11057 - Exact Sum
+11085 - Back to the 8-Queens
+11100 - The Trip, 2007
+11157 - Dynamic Frog
+11205 - The broken pedometer
+11236 - Grocery store
+11242 - Tour de France
+11264 - Coin Collector
+11284 - Shopping Trip
+11292 - Dragon of Loowater
+11389 - The Bus Driver Problem
+11413 - Fill the Containers
+11456 - Trainsorting
+11517 - Exact Change
+11553 - Grid Game
+11565 - Simple Equations
+11566 - Let's Yum Cha!
+11742 - Social Constraints
+11790 - Murcia's Skyline
+11832 - Account Book
+11935 - Through the Desert
+11951 - Area
+12032 - The Monkey and the Oiled Bamboo
+12192 - Grapevine
+12210 - A Match Making Problem
+1237 - Expert Enough?
+12405 - Scarecrow
+12455 - Bars
+1260 - Sales
+1262 - Password
+183 - Bit Maps
+193 - Graph Coloring
+216 - Getting in Line
+348 - Optimal Array Multiplication Sequence
+357 - Let Me Count The Ways
+416 - LED Test
+435 - Block Voting
+441 - Lotto
+481 - What Goes Up
+507 - Jill Rides Again
+524 - Prime Ring Problem
+574 - Sum It Up
+624 - CD
+735 - Dart-a-Mania
+787 - Maximum Sub-sequence Product
+927 - Integer Sequences from Addition of Terms
+
 4. Graph
 --------------------------------------------------
+
+10004 - Bicoloring
+10047 - The Monocycle
+10048 - Audiophobia
+10054 - The Necklace
+10171 - Meeting Prof. Miguel...
+10199 - Tourist Guide
+10203 - Snow Clearing
+10243 - Fire! Fire!! Fire!!!
+10285 - Longest Run on a Snowboard
+10305 - Ordering Tasks
+10349 - Antenna Placement
+10350 - Liftless EME
+10369 - Arctic Network
+104 - Arbitrage
+10401 - Injured Queen Problem
+10449 - Traffic
+10459 - The Tree Root
+10480 - Sabotage
+10557 - XYZZY
+1056 - Degrees of Separation
+10594 - Data Flow
+10596 - Morning Walk
+10600 - ACM Contest and Blackout
+10653 - Bombs! NO they are Mines!!
+10746 - Crime Wave - The Sequel
+10765 - Doves and bombs
+10801 - Lift Hopping
+10805 - Cockroach Escape Networks
+10913 - Walking on a Grid
+10938 - Flea circus
+10986 - Sending email
+1103 - Ancient Messages
+11047 - The Scrooge Co Problem
+11060 - Beverages
+11080 - Place the Guards
+11094 - Continents
+11101 - Mall Mania
+11110 - Equidivisions
+1112 - Mice and Maze
+11138 - Nuts and Bolts
+11159 - Factors and Multiples
+11167 - Monkeys in the Emei Mountain
+11228 - Transportation system.
+11280 - Flying to Fredericton
+11367 - Full Tank?
+11380 - Down Went The Titanic
+11396 - Claw Decomposition
+11463 - Commandos
+11487 - Gathering Food
+11492 - Babel
+11504 - Dominos
+11506 - Angry Programmer
+11615 - Family Tree
+11631 - Dark roads
+11695 - Flight Planning
+11747 - Heavy Cycle Edges
+11831 - Sticker Collector Robot
+11838 - Come and Go
+11902 - Dominator
+11906 - Knight in a War Grid
+11953 - Battleships
+11957 - Checkers
+12047 - Highest Paid Toll
+12125 - March of the Penguins
+12160 - Unlock the Lock
+12442 - Forwarding Emails
+168 - Theseus and the Minotaur
+247 - Calling Circles
+259 - Software Allocation
+314 - Robot
+315 - Network
+321 - The New Villa
+334 - Identifying Concurrent Events
+429 - Word Transformation
+452 - Project Scheduling
+558 - Wormholes
+796 - Critical Links
+820 - Internet Bandwidth
+821 - Page Hopping
+872 - Ordering
+907 - Winterim Backpacking Trip
+924 - Spreading The News
+929 - Number Maze
+988 - Many Paths, One Destination
 
 5. Mathematics
 --------------------------------------------------
 
+100 - The 3n + 1 problem
+10007 - Count the Trees
+10042 - Smith Numbers
+10089 - Repackaging
+10090 - Marbles
+10104 - Euclid Problem
+10109 - Solving Systems of Linear Equations
+10110 - Light, more light
+10111 - Find the Winning Move
+10137 - The Trip
+10139 - Factovisors
+10140 - Prime Distance
+10161 - Ant on a Chessboard
+10176 - Ocean Deep ! - Make it shallow !!
+10179 - Irreducable Basic Fractions
+10182 - Bee Maja
+10212 - The Last Non-zero Digit.
+10219 - Find the ways !
+10229 - Modular Fibonacci
+10233 - Dermuba Triangle
+10235 - Simply Emirp
+10268 - 498-bis
+10299 - Relatives
+10303 - How Many Trees?
+10312 - Expression Bracketing
+10334 - Ray Through Glasses
+10338 - Mischievous Children
+10346 - Peter's Smokes
+10394 - Twin Primes
+10407 - Simple division
+10408 - Farey sequences
+10427 - Naughty Sleepy Boys
+10491 - Cows and Cars
+10523 - Very Easy !!!
+10539 - Almost Prime Numbers
+10541 - Stripe
+10551 - Basic Remains
+10586 - Polynomial Remains
+10591 - Happy Number
+10673 - Play with Floor and Ceil
+10680 - LCM
+10681 - Teobaldo's Trip
+10689 - Yet another Number Sequence
+10699 - Count the factors
+10717 - Mint
+10738 - Riemann vs Mertens
+10751 - Chessboard
+10759 - Dice Throwing
+10773 - Back to Intermediate Math
+10784 - Diagonal
+10814 - Simplifying Fractions
+10820 - Send a Table
+10862 - Connect the Cable Wires
+10870 - Recurrences
+10892 - LCM Cardinality
+10916 - Factstone Benchmark
+10925 - Krakovia
+10930 - A-Sequence
+10931 - Parity
+10940 - Throwing cards away II
+10990 - Another New Function
+11053 - Flavius Josephus Reloaded
+11069 - A Graph Problem
+11130 - Billiard bounces
+11176 - Winning Streak
+11181 - Probability|Given
+11231 - Black and white painting
+11254 - Consecutive Integers
+11287 - Pseudoprime Numbers
+11310 - Delivery Debacle
+11311 - Exclusively Edible
+11344 - The Huge One
+11347 - Multifactorials
+11371 - Number Theory for Newbies
+11401 - Triangle Counting
+11466 - Largest Prime Divisor
+11472 - Beautiful Numbers
+11489 - Integer Game
+11526 - H(n)
+11538 - Chess Queen
+11597 - Spanning Subtree
+11616 - Roman Numerals
+11634 - Generate random numbers
+11718 - Fantasy of a Summation
+11723 - Numbering Roads
+11728 - Alternate Task
+11821 - High-Precision Number
+11827 - Maximum GCD
+11847 - Cut the Silver Bar
+11875 - Brick Game
+11879 - Multiple of 17
+11889 - Benefit
+11955 - Binomial Theorem
+12004 - Bubble Sort
+12024 - Hats
+12036 - Stable Grid
+1210 - Sum of Consecutive Prime Numbers
+1225 - Digit Counting
+1230 - MODEX
+264 - Count on Cantor
+294 - Divisors
+324 - Factorial Frequencies
+343 - What Base Is This?
+350 - Pseudo-Random Numbers
+374 - Big Mod
+377 - Cowculations
+382 - Perfection
+389 - Basically Speaking
+443 - Humble Numbers
+485 - Pascal's Triangle of Death
+498 - Polly the Polynomial
+516 - Prime Land
+543 - Goldbach's Conjecture
+575 - Skew Binary
+583 - Prime Factors
+616 - Coconuts, Revisited
+623 - 500!
+701 - The Archeologists' Dilemma
+713 - Adding Reversed Numbers
+718 - Skyscraper Floors
+763 - Fibinary Numbers
+991 - Safe Salutations
+
 6. String Processing
 --------------------------------------------------
+
+10010 - Where's Waldorf?
+10058 - Jimmi's Riddles
+10192 - Vacation
+10252 - Common Permutation
+10298 - Power Strings
+10393 - The One-Handed Typist
+10635 - Prince and Princess
+10800 - Not That Kind of Graph
+10851 - 2D Hieroglyphs decoder
+10854 - Number of Paths
+10878 - Decode the tape
+10894 - Save Hridoy
+10906 - Strange Integration
+11022 - String Factoring
+11048 - Automatic Correction of Misspellings
+11056 - Formula 1
+11107 - Life Forms
+11151 - Longest Palindrome
+11203 - Can you decide it for ME?
+11258 - String Partition
+11278 - One-Handed Typist
+11283 - Playing Boggle
+11291 - Smeech
+11357 - Ensuring Truth
+11385 - Da Vinci Code
+11452 - Dancing the Cheeky-Cheeky
+11475 - Extend to Palindrome
+11512 - GATTACA
+11576 - Scrolling Sign
+11697 - Playfair Cipher
+11878 - Homework Checker
+12155 - ASCII Diamondi
+164 - String Computer
+325 - Identifying Legal Pascal Real Constants
+422 - Word-Search Wonder
+488 - Triangle Wave
+494 - Kindergarten Counting Game
+526 - String Distance and Transform Process
+554 - Caesar Cypher
+622 - Grammar Evaluation
+644 - Immediate Decodability
+719 - Glass Beads
+760 - DNA Sequencing
+902 - Password Search
+941 - Permutations
 
 7. Geometry
 --------------------------------------------------
 
+10005 - Packing polygons
+10012 - How Big Is It?
+10065 - Useless Tile Packers
+10075 - Airlines
+10078 - The Art Gallery
+10088 - Trees on My Island
+10245 - The Closest Pair Problem
+10263 - Railway
+10286 - Trouble with a Pentagon
+10297 - Beavergnaw
+10301 - Rings and Glue
+10451 - Ancient Village Sports
+10566 - Crossed Ladders
+10577 - Bounding box
+10589 - Area
+10652 - Board Wrapping
+10678 - The Grazing Cow
+109 - SCUD Busters
+10902 - Pick-up Sticks
+10927 - Bright Lights
+1111 - Trash Removal
+11152 - Colourful Flowers
+11207 - The easiest way
+11227 - The silver bullet.
+11265 - The Sultan's Problem
+11447 - Reservoir logs
+11455 - Behold my quadrangle
+11507 - Bender B. Rodríguez Problem
+11646 - Athletics Track
+11817 - Tunnelling the Earth
+11834 - Elevator
+11909 - Soya Milk
+152 - Tree's a Crowd
+190 - Circle Through Three Points
+191 - Intersection
+270 - Lining Up
+378 - Intersecting Lines
+460 - Overlapping Rectangles
+476 - Points in Figures: Rectangles
+535 - Globetrotter
+634 - Polygon
+737 - Gleaming the Cubes
+811 - The Fortified Forest
+815 - Flooded!
+920 - Sunny Mountains
+
 8. Advanced Topics
 --------------------------------------------------
+
+10012 - How Big Is It?
+10181 - 15-Puzzle Problem
+10296 - Jogging Trails
+10309 - Turn the Lights Off
+1040 - The Traveling Judges Problem
+10482 - The Candyman Can
+10539 - Almost Prime Numbers
+10626 - Buying Coke
+10637 - Coprimes
+10717 - Mint
+1079 - A Careful Approach
+10816 - Travel in Desert
+10817 - Headmaster's Headache
+10856 - Recover Factorial
+10871 - Primed Subsequence
+10891 - Game of Sum
+10911 - Forming Quiz Teams
+1092 - Tracking Bio-bots
+10937 - Blackbeard the Pirate
+1098 - Robots on Ice
+10983 - Buy one, get the rest free
+1099 - Sharing Chocolate
+11065 - A Gentlemen's Agreement
+11105 - Semi-prime H-numbers
+11163 - Jaguar King
+11195 - Another n-Queen Problem
+11198 - Dancing Digits
+11212 - Editing a Book
+11227 - The silver bullet.
+11262 - Weird Fence
+11324 - The Largest Clique
+11329 - Curious Fleas
+11391 - Blobs in the Board
+11405 - Can U Win?
+11408 - Count DePrimes
+11428 - Cubes
+11474 - Dying Tree
+11516 - WiFi
+11525 - Permutation
+11574 - Colliding Traffic
+11610 - Reverse Prime
+11635 - Hotel booking
+1172 - The Bridges of Kolsberg
+11721 - Instant View of Big Bang
+11813 - Shopping
+11960 - Divisor Game
+1211 - Atomic Car Race
+12159 - Gun Fight
+1220 - Party at Hali-Bula
+1231 - ACORN
+1238 - Free Parentheses
+1252 - Twenty Questions
+295 - Fatman
+473 - Raucous Rockers
+976 - Bridge Building
+985 - Round and Round Maze
+
+9. Rare Topics
+--------------------------------------------------
+
+10017 - The Never Ending Towers of Hanoi
+10078 - The Art Gallery
+10213 - How Many Pieces of Land ?
+10243 - Fire! Fire!! Fire!!!
+10245 - The Closest Pair Problem
+10296 - Jogging Trails
+10316 - Airline Hub
+10319 - Manhattan
+10327 - Flip Sort
+10518 - How Many Calls?
+10655 - Contemplation! Algebra
+10720 - Graph Construction
+10746 - Crime Wave - The Sequel
+10771 - Barbarian tribes
+10774 - Repeated Josephus
+10888 - Warehouse
+10938 - Flea circus
+1096 - The Islands
+11111 - Generalized Matrioshkas
+11138 - Nuts and Bolts
+11167 - Monkeys in the Emei Mountain
+1121 - Subsequence
+11301 - Great Wall of China
+11319 - Stupid Sequence
+11351 - Last Man Standing
+11378 - Bey Battle
+11439 - Maximizing the ICPC
+11462 - Age Sort
+11476 - Factorizing Larget Integers
+11486 - Finding Paths in Grid
+11536 - Smallest Sub-Array
+11616 - Roman Numerals
+11643 - Knight Tour
+11719 - Gridland Airports
+11817 - Tunnelling the Earth
+11838 - Come and Go
+1184 - Air Raid
+11858 - Frosh Week
+120 - Stacks of Flapjacks
+1201 - Taxi Cab Scheme
+12238 - Ants Colony
+12397 - Roman Numerals
+1242 - Necklace
+1266 - Magic Square
+1347 - Tour
+344 - Roman Digititis
+348 - Optimal Array Multiplication Sequence
+439 - Knight Moves
+535 - Globetrotter
+551 - Nesting a Bunch of Brackets
+563 - Crimewave
+588 - Video Surveillance
+612 - DNA Sorting
+673 - Parentheses Balance
+727 - Equation
