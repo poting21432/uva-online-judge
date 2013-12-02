@@ -2,6 +2,8 @@ UVa Online Judge 基礎題單
 ==================================================
 參考 Steven Halim 所著《Competitive Programming Exercises》(1st & 2nd & 3rd Edition) (http://sites.google.com/site/stevenhalim/)
 
+全部 9 章共 584 題。
+
 > 1. Introduction (共 49 題)
 > 2. Data Structures and Libraries (共 58 題)
 > 3. Problem Solving Paradigms (共 70 題)
@@ -11,7 +13,6 @@ UVa Online Judge 基礎題單
 > 7. Geometry (共 45 題)
 > 8. More Advanced Topics (共 56 題)
 > 9. Rare Topics (共 55 題)
-> 全部 9 章共 584 題
 
 1. Introduction (共 49 題)
 --------------------------------------------------
