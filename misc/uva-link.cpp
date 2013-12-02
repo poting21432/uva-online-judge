@@ -1,3 +1,5 @@
+// g++ uva-link.cpp -o uva-link && ./uva-link < ../.basic-problem-list.md > ../basic-problem-list.md
+
 #include <cstdio>
 #include <cctype>
 #include <cstring>

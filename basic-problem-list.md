@@ -1,8 +1,19 @@
 UVa Online Judge 基礎題單
 ==================================================
-參考 Steven Halim 所著《Competitive Programming Exercises》 (http://sites.google.com/site/stevenhalim/)
+參考 Steven Halim 所著《Competitive Programming Exercises》(1st & 2nd & 3rd Edition) (http://sites.google.com/site/stevenhalim/)
 
-1. Introduction
+> 1. Introduction (共 49 題)
+> 2. Data Structures and Libraries (共 58 題)
+> 3. Problem Solving Paradigms (共 70 題)
+> 4. Graph (共 84 題)
+> 5. Mathematics (共 122 題)
+> 6. String Processing (共 45 題)
+> 7. Geometry (共 45 題)
+> 8. More Advanced Topics (共 56 題)
+> 9. Rare Topics (共 55 題)
+> 全部 9 章共 584 題
+
+1. Introduction (共 49 題)
 --------------------------------------------------
 
 * [10015 - Joseph's Cousin](http://uva.onlinejudge.org/external/100/10015.html)
@@ -55,7 +66,7 @@ UVa Online Judge 基礎題單
 * [893 - Y3K Problem](http://uva.onlinejudge.org/external/8/893.html)
 * [978 - Lemmings Battle!](http://uva.onlinejudge.org/external/9/978.html)
 
-2. Data Structures and Libraries
+2. Data Structures and Libraries (共 58 題)
 --------------------------------------------------
 
 * [10038 - Jolly Jumpers](http://uva.onlinejudge.org/external/100/10038.html)
@@ -117,7 +128,7 @@ UVa Online Judge 基礎題單
 * [908 - Re-connecting Computer Sites](http://uva.onlinejudge.org/external/9/908.html)
 * [978 - Lemmings Battle!](http://uva.onlinejudge.org/external/9/978.html)
 
-3. Problem Solving Paradigms
+3. Problem Solving Paradigms (共 70 題)
 --------------------------------------------------
 
 * [10102 - The path in the colored field](http://uva.onlinejudge.org/external/101/10102.html)
@@ -191,7 +202,7 @@ UVa Online Judge 基礎題單
 * [787 - Maximum Sub-sequence Product](http://uva.onlinejudge.org/external/7/787.html)
 * [927 - Integer Sequences from Addition of Terms](http://uva.onlinejudge.org/external/9/927.html)
 
-4. Graph
+4. Graph (共 84 題)
 --------------------------------------------------
 
 * [10004 - Bicoloring](http://uva.onlinejudge.org/external/100/10004.html)
@@ -279,7 +290,7 @@ UVa Online Judge 基礎題單
 * [929 - Number Maze](http://uva.onlinejudge.org/external/9/929.html)
 * [988 - Many Paths, One Destination](http://uva.onlinejudge.org/external/9/988.html)
 
-5. Mathematics
+5. Mathematics (共 122 題)
 --------------------------------------------------
 
 * [100 - The 3n + 1 problem](http://uva.onlinejudge.org/external/1/100.html)
@@ -405,7 +416,7 @@ UVa Online Judge 基礎題單
 * [763 - Fibinary Numbers](http://uva.onlinejudge.org/external/7/763.html)
 * [991 - Safe Salutations](http://uva.onlinejudge.org/external/9/991.html)
 
-6. String Processing
+6. String Processing (共 45 題)
 --------------------------------------------------
 
 * [10010 - Where's Waldorf?](http://uva.onlinejudge.org/external/100/10010.html)
@@ -454,7 +465,7 @@ UVa Online Judge 基礎題單
 * [902 - Password Search](http://uva.onlinejudge.org/external/9/902.html)
 * [941 - Permutations](http://uva.onlinejudge.org/external/9/941.html)
 
-7. Geometry
+7. Geometry (共 45 題)
 --------------------------------------------------
 
 * [10005 - Packing polygons](http://uva.onlinejudge.org/external/100/10005.html)
@@ -503,7 +514,7 @@ UVa Online Judge 基礎題單
 * [815 - Flooded!](http://uva.onlinejudge.org/external/8/815.html)
 * [920 - Sunny Mountains](http://uva.onlinejudge.org/external/9/920.html)
 
-8. Advanced Topics
+8. More Advanced Topics (共 56 題)
 --------------------------------------------------
 
 * [10012 - How Big Is It?](http://uva.onlinejudge.org/external/100/10012.html)
@@ -563,7 +574,7 @@ UVa Online Judge 基礎題單
 * [976 - Bridge Building](http://uva.onlinejudge.org/external/9/976.html)
 * [985 - Round and Round Maze](http://uva.onlinejudge.org/external/9/985.html)
 
-9. Rare Topics
+9. Rare Topics (共 55 題)
 --------------------------------------------------
 
 * [10017 - The Never Ending Towers of Hanoi](http://uva.onlinejudge.org/external/100/10017.html)
