@@ -16,7 +16,7 @@ int main()
       strcpy(problem_dir, problem_id);
       problem_dir[strlen(problem_id)-2] = '\0';
       //printf("%s / %s\n", problem_dir, problem_id);
-      printf("[·%s](http://uva.onlinejudge.org/external/%s/%s.html) ", buf, problem_dir, problem_id);
+      printf("[．%s](http://uva.onlinejudge.org/external/%s/%s.html) ", buf, problem_dir, problem_id);
     }
     else {
       puts(buf);
