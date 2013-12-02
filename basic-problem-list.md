@@ -5,619 +5,619 @@ UVa Online Judge 基礎題單
 1. Introduction
 --------------------------------------------------
 
-[* 10015 - Joseph's Cousin](http://uva.onlinejudge.org/external/100/10015.html)
-[* 10114 - Loansome Car Buyer](http://uva.onlinejudge.org/external/101/10114.html)
-[* 10141 - Request for Proposal](http://uva.onlinejudge.org/external/101/10141.html)
-[* 10189 - Minesweeper](http://uva.onlinejudge.org/external/101/10189.html)
-[* 10205 - Stack 'em Up](http://uva.onlinejudge.org/external/102/10205.html)
-[* 10284 - Chessboard in FEN](http://uva.onlinejudge.org/external/102/10284.html)
-[* 10360 - Rat Attack](http://uva.onlinejudge.org/external/103/10360.html)
-[* 10420 - List of Conquests](http://uva.onlinejudge.org/external/104/10420.html)
-[* 10443 - Rock](http://uva.onlinejudge.org/external/104/10443.html)
-[* 1061 - Consanguine Calculations](http://uva.onlinejudge.org/external/10/1061.html)
-[* 10636 - What is the Card?](http://uva.onlinejudge.org/external/106/10636.html)
-[* 10646 - What is the Card?](http://uva.onlinejudge.org/external/106/10646.html)
-[* 10812 - Beat the Spread!](http://uva.onlinejudge.org/external/108/10812.html)
-[* 10813 - Traditional BINGO](http://uva.onlinejudge.org/external/108/10813.html)
-[* 10945 - Mother bear](http://uva.onlinejudge.org/external/109/10945.html)
-[* 11172 - Relational Operator](http://uva.onlinejudge.org/external/111/11172.html)
-[* 11221 - Magic square palindromes](http://uva.onlinejudge.org/external/112/11221.html)
-[* 11450 - Wedding shopping](http://uva.onlinejudge.org/external/114/11450.html)
-[* 11459 - Snakes and Ladders](http://uva.onlinejudge.org/external/114/11459.html)
-[* 11498 - Division of Nlogonia](http://uva.onlinejudge.org/external/114/11498.html)
-[* 11507 - Bender B. Rodriquez Problem](http://uva.onlinejudge.org/external/115/11507.html)
-[* 11559 - Event Planning](http://uva.onlinejudge.org/external/115/11559.html)
-[* 11635 - Hotel booking](http://uva.onlinejudge.org/external/116/11635.html)
-[* 11727 - Cost Cutting](http://uva.onlinejudge.org/external/117/11727.html)
-[* 11799 - Horror Dash](http://uva.onlinejudge.org/external/117/11799.html)
-[* 11947 - Cancer or Scorpio](http://uva.onlinejudge.org/external/119/11947.html)
-[* 12060 - All Integer Average](http://uva.onlinejudge.org/external/120/12060.html)
-[* 12085 - Mobile Casanova](http://uva.onlinejudge.org/external/120/12085.html)
-[* 12247 - Jollo](http://uva.onlinejudge.org/external/122/12247.html)
-[* 151 - Power Crisis](http://uva.onlinejudge.org/external/1/151.html)
-[* 156 - Ananagrams](http://uva.onlinejudge.org/external/1/156.html)
-[* 161 - Traffic Lights](http://uva.onlinejudge.org/external/1/161.html)
-[* 195 - Anagram](http://uva.onlinejudge.org/external/1/195.html)
-[* 278 - Chess](http://uva.onlinejudge.org/external/2/278.html)
-[* 305 - Joseph](http://uva.onlinejudge.org/external/3/305.html)
-[* 401 - Palindromes](http://uva.onlinejudge.org/external/4/401.html)
-[* 403 - Postscript](http://uva.onlinejudge.org/external/4/403.html)
-[* 454 - Anagrams](http://uva.onlinejudge.org/external/4/454.html)
-[* 462 - Bridge Hand Evaluator](http://uva.onlinejudge.org/external/4/462.html)
-[* 489 - Hangman Judge](http://uva.onlinejudge.org/external/4/489.html)
-[* 556 - Amazing](http://uva.onlinejudge.org/external/5/556.html)
-[* 573 - The Snail](http://uva.onlinejudge.org/external/5/573.html)
-[* 579 - ClockHands](http://uva.onlinejudge.org/external/5/579.html)
-[* 584 - Bowling](http://uva.onlinejudge.org/external/5/584.html)
-[* 608 - Counterfeit Dollar](http://uva.onlinejudge.org/external/6/608.html)
-[* 637 - Booklet Printing](http://uva.onlinejudge.org/external/6/637.html)
-[* 696 - How Many Knights](http://uva.onlinejudge.org/external/6/696.html)
-[* 893 - Y3K Problem](http://uva.onlinejudge.org/external/8/893.html)
-[* 978 - Lemmings Battle!](http://uva.onlinejudge.org/external/9/978.html)
+* [10015 - Joseph's Cousin](http://uva.onlinejudge.org/external//.html)
+* [10114 - Loansome Car Buyer](http://uva.onlinejudge.org/external//.html)
+* [10141 - Request for Proposal](http://uva.onlinejudge.org/external//.html)
+* [10189 - Minesweeper](http://uva.onlinejudge.org/external//.html)
+* [10205 - Stack 'em Up](http://uva.onlinejudge.org/external//.html)
+* [10284 - Chessboard in FEN](http://uva.onlinejudge.org/external//.html)
+* [10360 - Rat Attack](http://uva.onlinejudge.org/external//.html)
+* [10420 - List of Conquests](http://uva.onlinejudge.org/external//.html)
+* [10443 - Rock](http://uva.onlinejudge.org/external//.html)
+* [1061 - Consanguine Calculations](http://uva.onlinejudge.org/external//.html)
+* [10636 - What is the Card?](http://uva.onlinejudge.org/external//.html)
+* [10646 - What is the Card?](http://uva.onlinejudge.org/external//.html)
+* [10812 - Beat the Spread!](http://uva.onlinejudge.org/external//.html)
+* [10813 - Traditional BINGO](http://uva.onlinejudge.org/external//.html)
+* [10945 - Mother bear](http://uva.onlinejudge.org/external//.html)
+* [11172 - Relational Operator](http://uva.onlinejudge.org/external//.html)
+* [11221 - Magic square palindromes](http://uva.onlinejudge.org/external//.html)
+* [11450 - Wedding shopping](http://uva.onlinejudge.org/external//.html)
+* [11459 - Snakes and Ladders](http://uva.onlinejudge.org/external//.html)
+* [11498 - Division of Nlogonia](http://uva.onlinejudge.org/external//.html)
+* [11507 - Bender B. Rodriquez Problem](http://uva.onlinejudge.org/external//.html)
+* [11559 - Event Planning](http://uva.onlinejudge.org/external//.html)
+* [11635 - Hotel booking](http://uva.onlinejudge.org/external//.html)
+* [11727 - Cost Cutting](http://uva.onlinejudge.org/external//.html)
+* [11799 - Horror Dash](http://uva.onlinejudge.org/external//.html)
+* [11947 - Cancer or Scorpio](http://uva.onlinejudge.org/external//.html)
+* [12060 - All Integer Average](http://uva.onlinejudge.org/external//.html)
+* [12085 - Mobile Casanova](http://uva.onlinejudge.org/external//.html)
+* [12247 - Jollo](http://uva.onlinejudge.org/external//.html)
+* [151 - Power Crisis](http://uva.onlinejudge.org/external//.html)
+* [156 - Ananagrams](http://uva.onlinejudge.org/external//.html)
+* [161 - Traffic Lights](http://uva.onlinejudge.org/external//.html)
+* [195 - Anagram](http://uva.onlinejudge.org/external//.html)
+* [278 - Chess](http://uva.onlinejudge.org/external//.html)
+* [305 - Joseph](http://uva.onlinejudge.org/external//.html)
+* [401 - Palindromes](http://uva.onlinejudge.org/external//.html)
+* [403 - Postscript](http://uva.onlinejudge.org/external//.html)
+* [454 - Anagrams](http://uva.onlinejudge.org/external//.html)
+* [462 - Bridge Hand Evaluator](http://uva.onlinejudge.org/external//.html)
+* [489 - Hangman Judge](http://uva.onlinejudge.org/external//.html)
+* [556 - Amazing](http://uva.onlinejudge.org/external//.html)
+* [573 - The Snail](http://uva.onlinejudge.org/external//.html)
+* [579 - ClockHands](http://uva.onlinejudge.org/external//.html)
+* [584 - Bowling](http://uva.onlinejudge.org/external//.html)
+* [608 - Counterfeit Dollar](http://uva.onlinejudge.org/external//.html)
+* [637 - Booklet Printing](http://uva.onlinejudge.org/external//.html)
+* [696 - How Many Knights](http://uva.onlinejudge.org/external//.html)
+* [893 - Y3K Problem](http://uva.onlinejudge.org/external//.html)
+* [978 - Lemmings Battle!](http://uva.onlinejudge.org/external//.html)
 
 2. Data Structures and Libraries
 --------------------------------------------------
 
-[* 10038 - Jolly Jumpers](http://uva.onlinejudge.org/external/100/10038.html)
-[* 10107 - What is the Median?](http://uva.onlinejudge.org/external/101/10107.html)
-[* 10172 - The Lonesome Cargo Distributor](http://uva.onlinejudge.org/external/101/10172.html)
-[* 10194 - Football (aka Soccer)](http://uva.onlinejudge.org/external/101/10194.html)
-[* 10226 - Hardwood Species](http://uva.onlinejudge.org/external/102/10226.html)
-[* 10258 - Contest Scoreboard](http://uva.onlinejudge.org/external/102/10258.html)
-[* 10264 - The Most Potent Corner](http://uva.onlinejudge.org/external/102/10264.html)
-[* 10507 - Waking up brain](http://uva.onlinejudge.org/external/105/10507.html)
-[* 1062 - Containers](http://uva.onlinejudge.org/external/10/1062.html)
-[* 10720 - Graph Construction](http://uva.onlinejudge.org/external/107/10720.html)
-[* 10855 - Rotated square](http://uva.onlinejudge.org/external/108/10855.html)
-[* 10901 - Ferry Loading III](http://uva.onlinejudge.org/external/109/10901.html)
-[* 10920 - Spiral Tap](http://uva.onlinejudge.org/external/109/10920.html)
-[* 10928 - My Dear Neighbours](http://uva.onlinejudge.org/external/109/10928.html)
-[* 10954 - Add All](http://uva.onlinejudge.org/external/109/10954.html)
-[* 11034 - Ferry Loading IV](http://uva.onlinejudge.org/external/110/11034.html)
-[* 11111 - Generalized Matrioshkas](http://uva.onlinejudge.org/external/111/11111.html)
-[* 11136 - Hoax or what](http://uva.onlinejudge.org/external/111/11136.html)
-[* 11235 - Frequent values](http://uva.onlinejudge.org/external/112/11235.html)
-[* 11286 - Conformity](http://uva.onlinejudge.org/external/112/11286.html)
-[* 11297 - Census](http://uva.onlinejudge.org/external/112/11297.html)
-[* 11308 - Bankrupt Baker](http://uva.onlinejudge.org/external/113/11308.html)
-[* 11340 - Newspaper](http://uva.onlinejudge.org/external/113/11340.html)
-[* 11402 - Ahoy, Pirates!](http://uva.onlinejudge.org/external/114/11402.html)
-[* 11462 - Age Sort](http://uva.onlinejudge.org/external/114/11462.html)
-[* 11492 - Babel](http://uva.onlinejudge.org/external/114/11492.html)
-[* 11495 - Bubbles and Buckets](http://uva.onlinejudge.org/external/114/11495.html)
-[* 11503 - Virtual Friends](http://uva.onlinejudge.org/external/115/11503.html)
-[* 11572 - Unique Snowflakes](http://uva.onlinejudge.org/external/115/11572.html)
-[* 11581 - Grid Successors](http://uva.onlinejudge.org/external/115/11581.html)
-[* 11588 - Image Coding](http://uva.onlinejudge.org/external/115/11588.html)
-[* 11629 - Ballot evaluation](http://uva.onlinejudge.org/external/116/11629.html)
-[* 11849 - CD](http://uva.onlinejudge.org/external/118/11849.html)
-[* 11858 - Frosh Week](http://uva.onlinejudge.org/external/118/11858.html)
-[* 11926 - Multitasking](http://uva.onlinejudge.org/external/119/11926.html)
-[* 11933 - Splitting Numbers](http://uva.onlinejudge.org/external/119/11933.html)
-[* 11988 - Broken Keyboard (a.k.a. Beiju Text)](http://uva.onlinejudge.org/external/119/11988.html)
-[* 11991 - Easy Problem from Rujia Liu?](http://uva.onlinejudge.org/external/119/11991.html)
-[* 11995 - I Can Guess the Data Structure!](http://uva.onlinejudge.org/external/119/11995.html)
-[* 1203 - Argus](http://uva.onlinejudge.org/external/12/1203.html)
-[* 12356 - Army Buddies](http://uva.onlinejudge.org/external/123/12356.html)
-[* 12532 - Interval Product](http://uva.onlinejudge.org/external/125/12532.html)
-[* 146 - ID Codes](http://uva.onlinejudge.org/external/1/146.html)
-[* 291 - The House Of Santa Claus](http://uva.onlinejudge.org/external/2/291.html)
-[* 299 - Train Swapping](http://uva.onlinejudge.org/external/2/299.html)
-[* 336 - A Node Too Far](http://uva.onlinejudge.org/external/3/336.html)
-[* 459 - Graph Connectivity](http://uva.onlinejudge.org/external/4/459.html)
-[* 482 - Permutation Arrays](http://uva.onlinejudge.org/external/4/482.html)
-[* 514 - Rails](http://uva.onlinejudge.org/external/5/514.html)
-[* 594 - One Little, Two Little, Three Little Endians](http://uva.onlinejudge.org/external/5/594.html)
-[* 599 - The Forrest for the Trees](http://uva.onlinejudge.org/external/5/599.html)
-[* 673 - Parentheses Balance](http://uva.onlinejudge.org/external/6/673.html)
-[* 727 - Equation](http://uva.onlinejudge.org/external/7/727.html)
-[* 732 - Anagrams by Stack](http://uva.onlinejudge.org/external/7/732.html)
-[* 793 - Network Connections](http://uva.onlinejudge.org/external/7/793.html)
-[* 855 - Lunch in Grid City](http://uva.onlinejudge.org/external/8/855.html)
-[* 908 - Re-connecting Computer Sites](http://uva.onlinejudge.org/external/9/908.html)
-[* 978 - Lemmings Battle!](http://uva.onlinejudge.org/external/9/978.html)
+* [10038 - Jolly Jumpers](http://uva.onlinejudge.org/external//.html)
+* [10107 - What is the Median?](http://uva.onlinejudge.org/external//.html)
+* [10172 - The Lonesome Cargo Distributor](http://uva.onlinejudge.org/external//.html)
+* [10194 - Football (aka Soccer)](http://uva.onlinejudge.org/external//.html)
+* [10226 - Hardwood Species](http://uva.onlinejudge.org/external//.html)
+* [10258 - Contest Scoreboard](http://uva.onlinejudge.org/external//.html)
+* [10264 - The Most Potent Corner](http://uva.onlinejudge.org/external//.html)
+* [10507 - Waking up brain](http://uva.onlinejudge.org/external//.html)
+* [1062 - Containers](http://uva.onlinejudge.org/external//.html)
+* [10720 - Graph Construction](http://uva.onlinejudge.org/external//.html)
+* [10855 - Rotated square](http://uva.onlinejudge.org/external//.html)
+* [10901 - Ferry Loading III](http://uva.onlinejudge.org/external//.html)
+* [10920 - Spiral Tap](http://uva.onlinejudge.org/external//.html)
+* [10928 - My Dear Neighbours](http://uva.onlinejudge.org/external//.html)
+* [10954 - Add All](http://uva.onlinejudge.org/external//.html)
+* [11034 - Ferry Loading IV](http://uva.onlinejudge.org/external//.html)
+* [11111 - Generalized Matrioshkas](http://uva.onlinejudge.org/external//.html)
+* [11136 - Hoax or what](http://uva.onlinejudge.org/external//.html)
+* [11235 - Frequent values](http://uva.onlinejudge.org/external//.html)
+* [11286 - Conformity](http://uva.onlinejudge.org/external//.html)
+* [11297 - Census](http://uva.onlinejudge.org/external//.html)
+* [11308 - Bankrupt Baker](http://uva.onlinejudge.org/external//.html)
+* [11340 - Newspaper](http://uva.onlinejudge.org/external//.html)
+* [11402 - Ahoy, Pirates!](http://uva.onlinejudge.org/external//.html)
+* [11462 - Age Sort](http://uva.onlinejudge.org/external//.html)
+* [11492 - Babel](http://uva.onlinejudge.org/external//.html)
+* [11495 - Bubbles and Buckets](http://uva.onlinejudge.org/external//.html)
+* [11503 - Virtual Friends](http://uva.onlinejudge.org/external//.html)
+* [11572 - Unique Snowflakes](http://uva.onlinejudge.org/external//.html)
+* [11581 - Grid Successors](http://uva.onlinejudge.org/external//.html)
+* [11588 - Image Coding](http://uva.onlinejudge.org/external//.html)
+* [11629 - Ballot evaluation](http://uva.onlinejudge.org/external//.html)
+11849 - CD
+* [11858 - Frosh Week](http://uva.onlinejudge.org/external//.html)
+* [11926 - Multitasking](http://uva.onlinejudge.org/external//.html)
+* [11933 - Splitting Numbers](http://uva.onlinejudge.org/external//.html)
+* [11988 - Broken Keyboard (a.k.a. Beiju Text)](http://uva.onlinejudge.org/external//.html)
+* [11991 - Easy Problem from Rujia Liu?](http://uva.onlinejudge.org/external//.html)
+* [11995 - I Can Guess the Data Structure!](http://uva.onlinejudge.org/external//.html)
+* [1203 - Argus](http://uva.onlinejudge.org/external//.html)
+* [12356 - Army Buddies](http://uva.onlinejudge.org/external//.html)
+* [12532 - Interval Product](http://uva.onlinejudge.org/external//.html)
+* [146 - ID Codes](http://uva.onlinejudge.org/external//.html)
+* [291 - The House Of Santa Claus](http://uva.onlinejudge.org/external//.html)
+* [299 - Train Swapping](http://uva.onlinejudge.org/external//.html)
+* [336 - A Node Too Far](http://uva.onlinejudge.org/external//.html)
+* [459 - Graph Connectivity](http://uva.onlinejudge.org/external//.html)
+* [482 - Permutation Arrays](http://uva.onlinejudge.org/external//.html)
+* [514 - Rails](http://uva.onlinejudge.org/external//.html)
+* [594 - One Little, Two Little, Three Little Endians](http://uva.onlinejudge.org/external//.html)
+* [599 - The Forrest for the Trees](http://uva.onlinejudge.org/external//.html)
+* [673 - Parentheses Balance](http://uva.onlinejudge.org/external//.html)
+* [727 - Equation](http://uva.onlinejudge.org/external//.html)
+* [732 - Anagrams by Stack](http://uva.onlinejudge.org/external//.html)
+* [793 - Network Connections](http://uva.onlinejudge.org/external//.html)
+* [855 - Lunch in Grid City](http://uva.onlinejudge.org/external//.html)
+* [908 - Re-connecting Computer Sites](http://uva.onlinejudge.org/external//.html)
+* [978 - Lemmings Battle!](http://uva.onlinejudge.org/external//.html)
 
 3. Problem Solving Paradigms
 --------------------------------------------------
 
-10102 - The path in the colored field
-10304 - Optimal Binary Search Tree
-10306 - e-Coins
-10309 - Turn the Lights Off
-10337 - Flight Planner
-10341 - Solve It
-1047 - Zones
-10487 - Closest Sums
-10496 - Collecting Beepers
-10503 - The dominoes solitaire
-10567 - Helping Fill Bates
-10576 - Y2K Accounting Bug
-10616 - Divisible Group Sums
-10656 - Maximum Sum (II)
-10660 - Citizen attention offices
-10684 - The jackpot
-10718 - Bit Mask
-10721 - Bar Codes
-10755 - Garbage Heap
-108 - Maximum Sum
-10819 - Trouble of 13-Dots
-10827 - Maximum sum on a torus
-10943 - How do you add?
-10976 - Fractions Again?!
-11057 - Exact Sum
-11085 - Back to the 8-Queens
-11100 - The Trip, 2007
-11157 - Dynamic Frog
-11205 - The broken pedometer
-11236 - Grocery store
-11242 - Tour de France
-11264 - Coin Collector
-11284 - Shopping Trip
-11292 - Dragon of Loowater
-11389 - The Bus Driver Problem
-11413 - Fill the Containers
-11456 - Trainsorting
-11517 - Exact Change
-11553 - Grid Game
-11565 - Simple Equations
-11566 - Let's Yum Cha!
-11742 - Social Constraints
-11790 - Murcia's Skyline
-11832 - Account Book
-11935 - Through the Desert
-11951 - Area
-12032 - The Monkey and the Oiled Bamboo
-12192 - Grapevine
-12210 - A Match Making Problem
-1237 - Expert Enough?
-12405 - Scarecrow
-12455 - Bars
-1260 - Sales
-1262 - Password
-183 - Bit Maps
-193 - Graph Coloring
-216 - Getting in Line
-348 - Optimal Array Multiplication Sequence
-357 - Let Me Count The Ways
-416 - LED Test
-435 - Block Voting
-441 - Lotto
-481 - What Goes Up
-507 - Jill Rides Again
-524 - Prime Ring Problem
-574 - Sum It Up
+* [10102 - The path in the colored field](http://uva.onlinejudge.org/external//.html)
+* [10304 - Optimal Binary Search Tree](http://uva.onlinejudge.org/external//.html)
+* [10306 - e-Coins](http://uva.onlinejudge.org/external//.html)
+* [10309 - Turn the Lights Off](http://uva.onlinejudge.org/external//.html)
+* [10337 - Flight Planner](http://uva.onlinejudge.org/external//.html)
+* [10341 - Solve It](http://uva.onlinejudge.org/external//.html)
+* [1047 - Zones](http://uva.onlinejudge.org/external//.html)
+* [10487 - Closest Sums](http://uva.onlinejudge.org/external//.html)
+* [10496 - Collecting Beepers](http://uva.onlinejudge.org/external//.html)
+* [10503 - The dominoes solitaire](http://uva.onlinejudge.org/external//.html)
+* [10567 - Helping Fill Bates](http://uva.onlinejudge.org/external//.html)
+* [10576 - Y2K Accounting Bug](http://uva.onlinejudge.org/external//.html)
+* [10616 - Divisible Group Sums](http://uva.onlinejudge.org/external//.html)
+* [10656 - Maximum Sum (II)](http://uva.onlinejudge.org/external//.html)
+* [10660 - Citizen attention offices](http://uva.onlinejudge.org/external//.html)
+* [10684 - The jackpot](http://uva.onlinejudge.org/external//.html)
+* [10718 - Bit Mask](http://uva.onlinejudge.org/external//.html)
+* [10721 - Bar Codes](http://uva.onlinejudge.org/external//.html)
+* [10755 - Garbage Heap](http://uva.onlinejudge.org/external//.html)
+* [108 - Maximum Sum](http://uva.onlinejudge.org/external//.html)
+* [10819 - Trouble of 13-Dots](http://uva.onlinejudge.org/external//.html)
+* [10827 - Maximum sum on a torus](http://uva.onlinejudge.org/external//.html)
+* [10943 - How do you add?](http://uva.onlinejudge.org/external//.html)
+* [10976 - Fractions Again?!](http://uva.onlinejudge.org/external//.html)
+* [11057 - Exact Sum](http://uva.onlinejudge.org/external//.html)
+* [11085 - Back to the 8-Queens](http://uva.onlinejudge.org/external//.html)
+* [11100 - The Trip, 2007](http://uva.onlinejudge.org/external//.html)
+* [11157 - Dynamic Frog](http://uva.onlinejudge.org/external//.html)
+* [11205 - The broken pedometer](http://uva.onlinejudge.org/external//.html)
+* [11236 - Grocery store](http://uva.onlinejudge.org/external//.html)
+* [11242 - Tour de France](http://uva.onlinejudge.org/external//.html)
+* [11264 - Coin Collector](http://uva.onlinejudge.org/external//.html)
+* [11284 - Shopping Trip](http://uva.onlinejudge.org/external//.html)
+* [11292 - Dragon of Loowater](http://uva.onlinejudge.org/external//.html)
+* [11389 - The Bus Driver Problem](http://uva.onlinejudge.org/external//.html)
+* [11413 - Fill the Containers](http://uva.onlinejudge.org/external//.html)
+* [11456 - Trainsorting](http://uva.onlinejudge.org/external//.html)
+* [11517 - Exact Change](http://uva.onlinejudge.org/external//.html)
+* [11553 - Grid Game](http://uva.onlinejudge.org/external//.html)
+* [11565 - Simple Equations](http://uva.onlinejudge.org/external//.html)
+* [11566 - Let's Yum Cha!](http://uva.onlinejudge.org/external//.html)
+* [11742 - Social Constraints](http://uva.onlinejudge.org/external//.html)
+* [11790 - Murcia's Skyline](http://uva.onlinejudge.org/external//.html)
+* [11832 - Account Book](http://uva.onlinejudge.org/external//.html)
+* [11935 - Through the Desert](http://uva.onlinejudge.org/external//.html)
+* [11951 - Area](http://uva.onlinejudge.org/external//.html)
+* [12032 - The Monkey and the Oiled Bamboo](http://uva.onlinejudge.org/external//.html)
+* [12192 - Grapevine](http://uva.onlinejudge.org/external//.html)
+* [12210 - A Match Making Problem](http://uva.onlinejudge.org/external//.html)
+* [1237 - Expert Enough?](http://uva.onlinejudge.org/external//.html)
+* [12405 - Scarecrow](http://uva.onlinejudge.org/external//.html)
+* [12455 - Bars](http://uva.onlinejudge.org/external//.html)
+* [1260 - Sales](http://uva.onlinejudge.org/external//.html)
+* [1262 - Password](http://uva.onlinejudge.org/external//.html)
+* [183 - Bit Maps](http://uva.onlinejudge.org/external//.html)
+* [193 - Graph Coloring](http://uva.onlinejudge.org/external//.html)
+* [216 - Getting in Line](http://uva.onlinejudge.org/external//.html)
+* [348 - Optimal Array Multiplication Sequence](http://uva.onlinejudge.org/external//.html)
+* [357 - Let Me Count The Ways](http://uva.onlinejudge.org/external//.html)
+* [416 - LED Test](http://uva.onlinejudge.org/external//.html)
+* [435 - Block Voting](http://uva.onlinejudge.org/external//.html)
+* [441 - Lotto](http://uva.onlinejudge.org/external//.html)
+* [481 - What Goes Up](http://uva.onlinejudge.org/external//.html)
+* [507 - Jill Rides Again](http://uva.onlinejudge.org/external//.html)
+* [524 - Prime Ring Problem](http://uva.onlinejudge.org/external//.html)
+* [574 - Sum It Up](http://uva.onlinejudge.org/external//.html)
 624 - CD
-735 - Dart-a-Mania
-787 - Maximum Sub-sequence Product
-927 - Integer Sequences from Addition of Terms
+* [735 - Dart-a-Mania](http://uva.onlinejudge.org/external//.html)
+* [787 - Maximum Sub-sequence Product](http://uva.onlinejudge.org/external//.html)
+* [927 - Integer Sequences from Addition of Terms](http://uva.onlinejudge.org/external//.html)
 
 4. Graph
 --------------------------------------------------
 
-10004 - Bicoloring
-10047 - The Monocycle
-10048 - Audiophobia
-10054 - The Necklace
-10171 - Meeting Prof. Miguel...
-10199 - Tourist Guide
-10203 - Snow Clearing
-10243 - Fire! Fire!! Fire!!!
-10285 - Longest Run on a Snowboard
-10305 - Ordering Tasks
-10349 - Antenna Placement
-10350 - Liftless EME
-10369 - Arctic Network
-104 - Arbitrage
-10401 - Injured Queen Problem
-10449 - Traffic
-10459 - The Tree Root
-10480 - Sabotage
-10557 - XYZZY
-1056 - Degrees of Separation
-10594 - Data Flow
-10596 - Morning Walk
-10600 - ACM Contest and Blackout
-10653 - Bombs! NO they are Mines!!
-10746 - Crime Wave - The Sequel
-10765 - Doves and bombs
-10801 - Lift Hopping
-10805 - Cockroach Escape Networks
-10913 - Walking on a Grid
-10938 - Flea circus
-10986 - Sending email
-1103 - Ancient Messages
-11047 - The Scrooge Co Problem
-11060 - Beverages
-11080 - Place the Guards
-11094 - Continents
-11101 - Mall Mania
-11110 - Equidivisions
-1112 - Mice and Maze
-11138 - Nuts and Bolts
-11159 - Factors and Multiples
-11167 - Monkeys in the Emei Mountain
-11228 - Transportation system.
-11280 - Flying to Fredericton
-11367 - Full Tank?
-11380 - Down Went The Titanic
-11396 - Claw Decomposition
-11463 - Commandos
-11487 - Gathering Food
-11492 - Babel
-11504 - Dominos
-11506 - Angry Programmer
-11615 - Family Tree
-11631 - Dark roads
-11695 - Flight Planning
-11747 - Heavy Cycle Edges
-11831 - Sticker Collector Robot
-11838 - Come and Go
-11902 - Dominator
-11906 - Knight in a War Grid
-11953 - Battleships
-11957 - Checkers
-12047 - Highest Paid Toll
-12125 - March of the Penguins
-12160 - Unlock the Lock
-12442 - Forwarding Emails
-168 - Theseus and the Minotaur
-247 - Calling Circles
-259 - Software Allocation
-314 - Robot
-315 - Network
-321 - The New Villa
-334 - Identifying Concurrent Events
-429 - Word Transformation
-452 - Project Scheduling
-558 - Wormholes
-796 - Critical Links
-820 - Internet Bandwidth
-821 - Page Hopping
-872 - Ordering
-907 - Winterim Backpacking Trip
-924 - Spreading The News
-929 - Number Maze
-988 - Many Paths, One Destination
+* [10004 - Bicoloring](http://uva.onlinejudge.org/external//.html)
+* [10047 - The Monocycle](http://uva.onlinejudge.org/external//.html)
+* [10048 - Audiophobia](http://uva.onlinejudge.org/external//.html)
+* [10054 - The Necklace](http://uva.onlinejudge.org/external//.html)
+* [10171 - Meeting Prof. Miguel...](http://uva.onlinejudge.org/external//.html)
+* [10199 - Tourist Guide](http://uva.onlinejudge.org/external//.html)
+* [10203 - Snow Clearing](http://uva.onlinejudge.org/external//.html)
+* [10243 - Fire! Fire!! Fire!!!](http://uva.onlinejudge.org/external//.html)
+* [10285 - Longest Run on a Snowboard](http://uva.onlinejudge.org/external//.html)
+* [10305 - Ordering Tasks](http://uva.onlinejudge.org/external//.html)
+* [10349 - Antenna Placement](http://uva.onlinejudge.org/external//.html)
+* [10350 - Liftless EME](http://uva.onlinejudge.org/external//.html)
+* [10369 - Arctic Network](http://uva.onlinejudge.org/external//.html)
+* [104 - Arbitrage](http://uva.onlinejudge.org/external//.html)
+* [10401 - Injured Queen Problem](http://uva.onlinejudge.org/external//.html)
+* [10449 - Traffic](http://uva.onlinejudge.org/external//.html)
+* [10459 - The Tree Root](http://uva.onlinejudge.org/external//.html)
+* [10480 - Sabotage](http://uva.onlinejudge.org/external//.html)
+* [10557 - XYZZY](http://uva.onlinejudge.org/external//.html)
+* [1056 - Degrees of Separation](http://uva.onlinejudge.org/external//.html)
+* [10594 - Data Flow](http://uva.onlinejudge.org/external//.html)
+* [10596 - Morning Walk](http://uva.onlinejudge.org/external//.html)
+* [10600 - ACM Contest and Blackout](http://uva.onlinejudge.org/external//.html)
+* [10653 - Bombs! NO they are Mines!!](http://uva.onlinejudge.org/external//.html)
+* [10746 - Crime Wave - The Sequel](http://uva.onlinejudge.org/external//.html)
+* [10765 - Doves and bombs](http://uva.onlinejudge.org/external//.html)
+* [10801 - Lift Hopping](http://uva.onlinejudge.org/external//.html)
+* [10805 - Cockroach Escape Networks](http://uva.onlinejudge.org/external//.html)
+* [10913 - Walking on a Grid](http://uva.onlinejudge.org/external//.html)
+* [10938 - Flea circus](http://uva.onlinejudge.org/external//.html)
+* [10986 - Sending email](http://uva.onlinejudge.org/external//.html)
+* [1103 - Ancient Messages](http://uva.onlinejudge.org/external//.html)
+* [11047 - The Scrooge Co Problem](http://uva.onlinejudge.org/external//.html)
+* [11060 - Beverages](http://uva.onlinejudge.org/external//.html)
+* [11080 - Place the Guards](http://uva.onlinejudge.org/external//.html)
+* [11094 - Continents](http://uva.onlinejudge.org/external//.html)
+* [11101 - Mall Mania](http://uva.onlinejudge.org/external//.html)
+* [11110 - Equidivisions](http://uva.onlinejudge.org/external//.html)
+* [1112 - Mice and Maze](http://uva.onlinejudge.org/external//.html)
+* [11138 - Nuts and Bolts](http://uva.onlinejudge.org/external//.html)
+* [11159 - Factors and Multiples](http://uva.onlinejudge.org/external//.html)
+* [11167 - Monkeys in the Emei Mountain](http://uva.onlinejudge.org/external//.html)
+* [11228 - Transportation system.](http://uva.onlinejudge.org/external//.html)
+* [11280 - Flying to Fredericton](http://uva.onlinejudge.org/external//.html)
+* [11367 - Full Tank?](http://uva.onlinejudge.org/external//.html)
+* [11380 - Down Went The Titanic](http://uva.onlinejudge.org/external//.html)
+* [11396 - Claw Decomposition](http://uva.onlinejudge.org/external//.html)
+* [11463 - Commandos](http://uva.onlinejudge.org/external//.html)
+* [11487 - Gathering Food](http://uva.onlinejudge.org/external//.html)
+* [11492 - Babel](http://uva.onlinejudge.org/external//.html)
+* [11504 - Dominos](http://uva.onlinejudge.org/external//.html)
+* [11506 - Angry Programmer](http://uva.onlinejudge.org/external//.html)
+* [11615 - Family Tree](http://uva.onlinejudge.org/external//.html)
+* [11631 - Dark roads](http://uva.onlinejudge.org/external//.html)
+* [11695 - Flight Planning](http://uva.onlinejudge.org/external//.html)
+* [11747 - Heavy Cycle Edges](http://uva.onlinejudge.org/external//.html)
+* [11831 - Sticker Collector Robot](http://uva.onlinejudge.org/external//.html)
+* [11838 - Come and Go](http://uva.onlinejudge.org/external//.html)
+* [11902 - Dominator](http://uva.onlinejudge.org/external//.html)
+* [11906 - Knight in a War Grid](http://uva.onlinejudge.org/external//.html)
+* [11953 - Battleships](http://uva.onlinejudge.org/external//.html)
+* [11957 - Checkers](http://uva.onlinejudge.org/external//.html)
+* [12047 - Highest Paid Toll](http://uva.onlinejudge.org/external//.html)
+* [12125 - March of the Penguins](http://uva.onlinejudge.org/external//.html)
+* [12160 - Unlock the Lock](http://uva.onlinejudge.org/external//.html)
+* [12442 - Forwarding Emails](http://uva.onlinejudge.org/external//.html)
+* [168 - Theseus and the Minotaur](http://uva.onlinejudge.org/external//.html)
+* [247 - Calling Circles](http://uva.onlinejudge.org/external//.html)
+* [259 - Software Allocation](http://uva.onlinejudge.org/external//.html)
+* [314 - Robot](http://uva.onlinejudge.org/external//.html)
+* [315 - Network](http://uva.onlinejudge.org/external//.html)
+* [321 - The New Villa](http://uva.onlinejudge.org/external//.html)
+* [334 - Identifying Concurrent Events](http://uva.onlinejudge.org/external//.html)
+* [429 - Word Transformation](http://uva.onlinejudge.org/external//.html)
+* [452 - Project Scheduling](http://uva.onlinejudge.org/external//.html)
+* [558 - Wormholes](http://uva.onlinejudge.org/external//.html)
+* [796 - Critical Links](http://uva.onlinejudge.org/external//.html)
+* [820 - Internet Bandwidth](http://uva.onlinejudge.org/external//.html)
+* [821 - Page Hopping](http://uva.onlinejudge.org/external//.html)
+* [872 - Ordering](http://uva.onlinejudge.org/external//.html)
+* [907 - Winterim Backpacking Trip](http://uva.onlinejudge.org/external//.html)
+* [924 - Spreading The News](http://uva.onlinejudge.org/external//.html)
+* [929 - Number Maze](http://uva.onlinejudge.org/external//.html)
+* [988 - Many Paths, One Destination](http://uva.onlinejudge.org/external//.html)
 
 5. Mathematics
 --------------------------------------------------
 
-100 - The 3n + 1 problem
-10007 - Count the Trees
-10042 - Smith Numbers
-10089 - Repackaging
-10090 - Marbles
-10104 - Euclid Problem
-10109 - Solving Systems of Linear Equations
-10110 - Light, more light
-10111 - Find the Winning Move
-10137 - The Trip
-10139 - Factovisors
-10140 - Prime Distance
-10161 - Ant on a Chessboard
-10176 - Ocean Deep ! - Make it shallow !!
-10179 - Irreducable Basic Fractions
-10182 - Bee Maja
-10212 - The Last Non-zero Digit.
-10219 - Find the ways !
-10229 - Modular Fibonacci
-10233 - Dermuba Triangle
-10235 - Simply Emirp
-10268 - 498-bis
-10299 - Relatives
-10303 - How Many Trees?
-10312 - Expression Bracketing
-10334 - Ray Through Glasses
-10338 - Mischievous Children
-10346 - Peter's Smokes
-10394 - Twin Primes
-10407 - Simple division
-10408 - Farey sequences
-10427 - Naughty Sleepy Boys
-10491 - Cows and Cars
-10523 - Very Easy !!!
-10539 - Almost Prime Numbers
-10541 - Stripe
-10551 - Basic Remains
-10586 - Polynomial Remains
-10591 - Happy Number
-10673 - Play with Floor and Ceil
-10680 - LCM
-10681 - Teobaldo's Trip
-10689 - Yet another Number Sequence
-10699 - Count the factors
-10717 - Mint
-10738 - Riemann vs Mertens
-10751 - Chessboard
-10759 - Dice Throwing
-10773 - Back to Intermediate Math
-10784 - Diagonal
-10814 - Simplifying Fractions
-10820 - Send a Table
-10862 - Connect the Cable Wires
-10870 - Recurrences
-10892 - LCM Cardinality
-10916 - Factstone Benchmark
-10925 - Krakovia
-10930 - A-Sequence
-10931 - Parity
-10940 - Throwing cards away II
-10990 - Another New Function
-11053 - Flavius Josephus Reloaded
-11069 - A Graph Problem
-11130 - Billiard bounces
-11176 - Winning Streak
-11181 - Probability|Given
-11231 - Black and white painting
-11254 - Consecutive Integers
-11287 - Pseudoprime Numbers
-11310 - Delivery Debacle
-11311 - Exclusively Edible
-11344 - The Huge One
-11347 - Multifactorials
-11371 - Number Theory for Newbies
-11401 - Triangle Counting
-11466 - Largest Prime Divisor
-11472 - Beautiful Numbers
-11489 - Integer Game
-11526 - H(n)
-11538 - Chess Queen
-11597 - Spanning Subtree
-11616 - Roman Numerals
-11634 - Generate random numbers
-11718 - Fantasy of a Summation
-11723 - Numbering Roads
-11728 - Alternate Task
-11821 - High-Precision Number
-11827 - Maximum GCD
-11847 - Cut the Silver Bar
-11875 - Brick Game
-11879 - Multiple of 17
-11889 - Benefit
-11955 - Binomial Theorem
-12004 - Bubble Sort
-12024 - Hats
-12036 - Stable Grid
-1210 - Sum of Consecutive Prime Numbers
-1225 - Digit Counting
-1230 - MODEX
-264 - Count on Cantor
-294 - Divisors
-324 - Factorial Frequencies
-343 - What Base Is This?
-350 - Pseudo-Random Numbers
-374 - Big Mod
-377 - Cowculations
-382 - Perfection
-389 - Basically Speaking
-443 - Humble Numbers
-485 - Pascal's Triangle of Death
-498 - Polly the Polynomial
-516 - Prime Land
-543 - Goldbach's Conjecture
-575 - Skew Binary
-583 - Prime Factors
-616 - Coconuts, Revisited
+* [100 - The 3n + 1 problem](http://uva.onlinejudge.org/external//.html)
+* [10007 - Count the Trees](http://uva.onlinejudge.org/external//.html)
+* [10042 - Smith Numbers](http://uva.onlinejudge.org/external//.html)
+* [10089 - Repackaging](http://uva.onlinejudge.org/external//.html)
+* [10090 - Marbles](http://uva.onlinejudge.org/external//.html)
+* [10104 - Euclid Problem](http://uva.onlinejudge.org/external//.html)
+* [10109 - Solving Systems of Linear Equations](http://uva.onlinejudge.org/external//.html)
+* [10110 - Light, more light](http://uva.onlinejudge.org/external//.html)
+* [10111 - Find the Winning Move](http://uva.onlinejudge.org/external//.html)
+* [10137 - The Trip](http://uva.onlinejudge.org/external//.html)
+* [10139 - Factovisors](http://uva.onlinejudge.org/external//.html)
+* [10140 - Prime Distance](http://uva.onlinejudge.org/external//.html)
+* [10161 - Ant on a Chessboard](http://uva.onlinejudge.org/external//.html)
+* [10176 - Ocean Deep ! - Make it shallow !!](http://uva.onlinejudge.org/external//.html)
+* [10179 - Irreducable Basic Fractions](http://uva.onlinejudge.org/external//.html)
+* [10182 - Bee Maja](http://uva.onlinejudge.org/external//.html)
+* [10212 - The Last Non-zero Digit.](http://uva.onlinejudge.org/external//.html)
+* [10219 - Find the ways !](http://uva.onlinejudge.org/external//.html)
+* [10229 - Modular Fibonacci](http://uva.onlinejudge.org/external//.html)
+* [10233 - Dermuba Triangle](http://uva.onlinejudge.org/external//.html)
+* [10235 - Simply Emirp](http://uva.onlinejudge.org/external//.html)
+* [10268 - 498-bis](http://uva.onlinejudge.org/external//.html)
+* [10299 - Relatives](http://uva.onlinejudge.org/external//.html)
+* [10303 - How Many Trees?](http://uva.onlinejudge.org/external//.html)
+* [10312 - Expression Bracketing](http://uva.onlinejudge.org/external//.html)
+* [10334 - Ray Through Glasses](http://uva.onlinejudge.org/external//.html)
+* [10338 - Mischievous Children](http://uva.onlinejudge.org/external//.html)
+* [10346 - Peter's Smokes](http://uva.onlinejudge.org/external//.html)
+* [10394 - Twin Primes](http://uva.onlinejudge.org/external//.html)
+* [10407 - Simple division](http://uva.onlinejudge.org/external//.html)
+* [10408 - Farey sequences](http://uva.onlinejudge.org/external//.html)
+* [10427 - Naughty Sleepy Boys](http://uva.onlinejudge.org/external//.html)
+* [10491 - Cows and Cars](http://uva.onlinejudge.org/external//.html)
+* [10523 - Very Easy !!!](http://uva.onlinejudge.org/external//.html)
+* [10539 - Almost Prime Numbers](http://uva.onlinejudge.org/external//.html)
+* [10541 - Stripe](http://uva.onlinejudge.org/external//.html)
+* [10551 - Basic Remains](http://uva.onlinejudge.org/external//.html)
+* [10586 - Polynomial Remains](http://uva.onlinejudge.org/external//.html)
+* [10591 - Happy Number](http://uva.onlinejudge.org/external//.html)
+* [10673 - Play with Floor and Ceil](http://uva.onlinejudge.org/external//.html)
+* [10680 - LCM](http://uva.onlinejudge.org/external//.html)
+* [10681 - Teobaldo's Trip](http://uva.onlinejudge.org/external//.html)
+* [10689 - Yet another Number Sequence](http://uva.onlinejudge.org/external//.html)
+* [10699 - Count the factors](http://uva.onlinejudge.org/external//.html)
+* [10717 - Mint](http://uva.onlinejudge.org/external//.html)
+* [10738 - Riemann vs Mertens](http://uva.onlinejudge.org/external//.html)
+* [10751 - Chessboard](http://uva.onlinejudge.org/external//.html)
+* [10759 - Dice Throwing](http://uva.onlinejudge.org/external//.html)
+* [10773 - Back to Intermediate Math](http://uva.onlinejudge.org/external//.html)
+* [10784 - Diagonal](http://uva.onlinejudge.org/external//.html)
+* [10814 - Simplifying Fractions](http://uva.onlinejudge.org/external//.html)
+* [10820 - Send a Table](http://uva.onlinejudge.org/external//.html)
+* [10862 - Connect the Cable Wires](http://uva.onlinejudge.org/external//.html)
+* [10870 - Recurrences](http://uva.onlinejudge.org/external//.html)
+* [10892 - LCM Cardinality](http://uva.onlinejudge.org/external//.html)
+* [10916 - Factstone Benchmark](http://uva.onlinejudge.org/external//.html)
+* [10925 - Krakovia](http://uva.onlinejudge.org/external//.html)
+* [10930 - A-Sequence](http://uva.onlinejudge.org/external//.html)
+* [10931 - Parity](http://uva.onlinejudge.org/external//.html)
+* [10940 - Throwing cards away II](http://uva.onlinejudge.org/external//.html)
+* [10990 - Another New Function](http://uva.onlinejudge.org/external//.html)
+* [11053 - Flavius Josephus Reloaded](http://uva.onlinejudge.org/external//.html)
+* [11069 - A Graph Problem](http://uva.onlinejudge.org/external//.html)
+* [11130 - Billiard bounces](http://uva.onlinejudge.org/external//.html)
+* [11176 - Winning Streak](http://uva.onlinejudge.org/external//.html)
+* [11181 - Probability|Given](http://uva.onlinejudge.org/external//.html)
+* [11231 - Black and white painting](http://uva.onlinejudge.org/external//.html)
+* [11254 - Consecutive Integers](http://uva.onlinejudge.org/external//.html)
+* [11287 - Pseudoprime Numbers](http://uva.onlinejudge.org/external//.html)
+* [11310 - Delivery Debacle](http://uva.onlinejudge.org/external//.html)
+* [11311 - Exclusively Edible](http://uva.onlinejudge.org/external//.html)
+* [11344 - The Huge One](http://uva.onlinejudge.org/external//.html)
+* [11347 - Multifactorials](http://uva.onlinejudge.org/external//.html)
+* [11371 - Number Theory for Newbies](http://uva.onlinejudge.org/external//.html)
+* [11401 - Triangle Counting](http://uva.onlinejudge.org/external//.html)
+* [11466 - Largest Prime Divisor](http://uva.onlinejudge.org/external//.html)
+* [11472 - Beautiful Numbers](http://uva.onlinejudge.org/external//.html)
+* [11489 - Integer Game](http://uva.onlinejudge.org/external//.html)
+* [11526 - H(n)](http://uva.onlinejudge.org/external//.html)
+* [11538 - Chess Queen](http://uva.onlinejudge.org/external//.html)
+* [11597 - Spanning Subtree](http://uva.onlinejudge.org/external//.html)
+* [11616 - Roman Numerals](http://uva.onlinejudge.org/external//.html)
+* [11634 - Generate random numbers](http://uva.onlinejudge.org/external//.html)
+* [11718 - Fantasy of a Summation](http://uva.onlinejudge.org/external//.html)
+* [11723 - Numbering Roads](http://uva.onlinejudge.org/external//.html)
+* [11728 - Alternate Task](http://uva.onlinejudge.org/external//.html)
+* [11821 - High-Precision Number](http://uva.onlinejudge.org/external//.html)
+* [11827 - Maximum GCD](http://uva.onlinejudge.org/external//.html)
+* [11847 - Cut the Silver Bar](http://uva.onlinejudge.org/external//.html)
+* [11875 - Brick Game](http://uva.onlinejudge.org/external//.html)
+* [11879 - Multiple of 17](http://uva.onlinejudge.org/external//.html)
+* [11889 - Benefit](http://uva.onlinejudge.org/external//.html)
+* [11955 - Binomial Theorem](http://uva.onlinejudge.org/external//.html)
+* [12004 - Bubble Sort](http://uva.onlinejudge.org/external//.html)
+* [12024 - Hats](http://uva.onlinejudge.org/external//.html)
+* [12036 - Stable Grid](http://uva.onlinejudge.org/external//.html)
+* [1210 - Sum of Consecutive Prime Numbers](http://uva.onlinejudge.org/external//.html)
+* [1225 - Digit Counting](http://uva.onlinejudge.org/external//.html)
+* [1230 - MODEX](http://uva.onlinejudge.org/external//.html)
+* [264 - Count on Cantor](http://uva.onlinejudge.org/external//.html)
+* [294 - Divisors](http://uva.onlinejudge.org/external//.html)
+* [324 - Factorial Frequencies](http://uva.onlinejudge.org/external//.html)
+* [343 - What Base Is This?](http://uva.onlinejudge.org/external//.html)
+* [350 - Pseudo-Random Numbers](http://uva.onlinejudge.org/external//.html)
+* [374 - Big Mod](http://uva.onlinejudge.org/external//.html)
+* [377 - Cowculations](http://uva.onlinejudge.org/external//.html)
+* [382 - Perfection](http://uva.onlinejudge.org/external//.html)
+* [389 - Basically Speaking](http://uva.onlinejudge.org/external//.html)
+* [443 - Humble Numbers](http://uva.onlinejudge.org/external//.html)
+* [485 - Pascal's Triangle of Death](http://uva.onlinejudge.org/external//.html)
+* [498 - Polly the Polynomial](http://uva.onlinejudge.org/external//.html)
+* [516 - Prime Land](http://uva.onlinejudge.org/external//.html)
+* [543 - Goldbach's Conjecture](http://uva.onlinejudge.org/external//.html)
+* [575 - Skew Binary](http://uva.onlinejudge.org/external//.html)
+* [583 - Prime Factors](http://uva.onlinejudge.org/external//.html)
+* [616 - Coconuts, Revisited](http://uva.onlinejudge.org/external//.html)
 623 - 500!
-701 - The Archeologists' Dilemma
-713 - Adding Reversed Numbers
-718 - Skyscraper Floors
-763 - Fibinary Numbers
-991 - Safe Salutations
+* [701 - The Archeologists' Dilemma](http://uva.onlinejudge.org/external//.html)
+* [713 - Adding Reversed Numbers](http://uva.onlinejudge.org/external//.html)
+* [718 - Skyscraper Floors](http://uva.onlinejudge.org/external//.html)
+* [763 - Fibinary Numbers](http://uva.onlinejudge.org/external//.html)
+* [991 - Safe Salutations](http://uva.onlinejudge.org/external//.html)
 
 6. String Processing
 --------------------------------------------------
 
-10010 - Where's Waldorf?
-10058 - Jimmi's Riddles
-10192 - Vacation
-10252 - Common Permutation
-10298 - Power Strings
-10393 - The One-Handed Typist
-10635 - Prince and Princess
-10800 - Not That Kind of Graph
-10851 - 2D Hieroglyphs decoder
-10854 - Number of Paths
-10878 - Decode the tape
-10894 - Save Hridoy
-10906 - Strange Integration
-11022 - String Factoring
-11048 - Automatic Correction of Misspellings
-11056 - Formula 1
-11107 - Life Forms
-11151 - Longest Palindrome
-11203 - Can you decide it for ME?
-11258 - String Partition
-11278 - One-Handed Typist
-11283 - Playing Boggle
-11291 - Smeech
-11357 - Ensuring Truth
-11385 - Da Vinci Code
-11452 - Dancing the Cheeky-Cheeky
-11475 - Extend to Palindrome
-11512 - GATTACA
-11576 - Scrolling Sign
-11697 - Playfair Cipher
-11878 - Homework Checker
-12155 - ASCII Diamondi
-164 - String Computer
-325 - Identifying Legal Pascal Real Constants
-422 - Word-Search Wonder
-488 - Triangle Wave
-494 - Kindergarten Counting Game
-526 - String Distance and Transform Process
-554 - Caesar Cypher
-622 - Grammar Evaluation
-644 - Immediate Decodability
-719 - Glass Beads
-760 - DNA Sequencing
-902 - Password Search
-941 - Permutations
+* [10010 - Where's Waldorf?](http://uva.onlinejudge.org/external//.html)
+* [10058 - Jimmi's Riddles](http://uva.onlinejudge.org/external//.html)
+* [10192 - Vacation](http://uva.onlinejudge.org/external//.html)
+* [10252 - Common Permutation](http://uva.onlinejudge.org/external//.html)
+* [10298 - Power Strings](http://uva.onlinejudge.org/external//.html)
+* [10393 - The One-Handed Typist](http://uva.onlinejudge.org/external//.html)
+* [10635 - Prince and Princess](http://uva.onlinejudge.org/external//.html)
+* [10800 - Not That Kind of Graph](http://uva.onlinejudge.org/external//.html)
+* [10851 - 2D Hieroglyphs decoder](http://uva.onlinejudge.org/external//.html)
+* [10854 - Number of Paths](http://uva.onlinejudge.org/external//.html)
+* [10878 - Decode the tape](http://uva.onlinejudge.org/external//.html)
+* [10894 - Save Hridoy](http://uva.onlinejudge.org/external//.html)
+* [10906 - Strange Integration](http://uva.onlinejudge.org/external//.html)
+* [11022 - String Factoring](http://uva.onlinejudge.org/external//.html)
+* [11048 - Automatic Correction of Misspellings](http://uva.onlinejudge.org/external//.html)
+* [11056 - Formula 1](http://uva.onlinejudge.org/external//.html)
+* [11107 - Life Forms](http://uva.onlinejudge.org/external//.html)
+* [11151 - Longest Palindrome](http://uva.onlinejudge.org/external//.html)
+* [11203 - Can you decide it for ME?](http://uva.onlinejudge.org/external//.html)
+* [11258 - String Partition](http://uva.onlinejudge.org/external//.html)
+* [11278 - One-Handed Typist](http://uva.onlinejudge.org/external//.html)
+* [11283 - Playing Boggle](http://uva.onlinejudge.org/external//.html)
+* [11291 - Smeech](http://uva.onlinejudge.org/external//.html)
+* [11357 - Ensuring Truth](http://uva.onlinejudge.org/external//.html)
+* [11385 - Da Vinci Code](http://uva.onlinejudge.org/external//.html)
+* [11452 - Dancing the Cheeky-Cheeky](http://uva.onlinejudge.org/external//.html)
+* [11475 - Extend to Palindrome](http://uva.onlinejudge.org/external//.html)
+* [11512 - GATTACA](http://uva.onlinejudge.org/external//.html)
+* [11576 - Scrolling Sign](http://uva.onlinejudge.org/external//.html)
+* [11697 - Playfair Cipher](http://uva.onlinejudge.org/external//.html)
+* [11878 - Homework Checker](http://uva.onlinejudge.org/external//.html)
+* [12155 - ASCII Diamondi](http://uva.onlinejudge.org/external//.html)
+* [164 - String Computer](http://uva.onlinejudge.org/external//.html)
+* [325 - Identifying Legal Pascal Real Constants](http://uva.onlinejudge.org/external//.html)
+* [422 - Word-Search Wonder](http://uva.onlinejudge.org/external//.html)
+* [488 - Triangle Wave](http://uva.onlinejudge.org/external//.html)
+* [494 - Kindergarten Counting Game](http://uva.onlinejudge.org/external//.html)
+* [526 - String Distance and Transform Process](http://uva.onlinejudge.org/external//.html)
+* [554 - Caesar Cypher](http://uva.onlinejudge.org/external//.html)
+* [622 - Grammar Evaluation](http://uva.onlinejudge.org/external//.html)
+* [644 - Immediate Decodability](http://uva.onlinejudge.org/external//.html)
+* [719 - Glass Beads](http://uva.onlinejudge.org/external//.html)
+* [760 - DNA Sequencing](http://uva.onlinejudge.org/external//.html)
+* [902 - Password Search](http://uva.onlinejudge.org/external//.html)
+* [941 - Permutations](http://uva.onlinejudge.org/external//.html)
 
 7. Geometry
 --------------------------------------------------
 
-10005 - Packing polygons
-10012 - How Big Is It?
-10065 - Useless Tile Packers
-10075 - Airlines
-10078 - The Art Gallery
-10088 - Trees on My Island
-10245 - The Closest Pair Problem
-10263 - Railway
-10286 - Trouble with a Pentagon
-10297 - Beavergnaw
-10301 - Rings and Glue
-10451 - Ancient Village Sports
-10566 - Crossed Ladders
-10577 - Bounding box
-10589 - Area
-10652 - Board Wrapping
-10678 - The Grazing Cow
-109 - SCUD Busters
-10902 - Pick-up Sticks
-10927 - Bright Lights
-1111 - Trash Removal
-11152 - Colourful Flowers
-11207 - The easiest way
-11227 - The silver bullet.
-11265 - The Sultan's Problem
-11447 - Reservoir logs
-11455 - Behold my quadrangle
-11507 - Bender B. Rodríguez Problem
-11646 - Athletics Track
-11817 - Tunnelling the Earth
-11834 - Elevator
-11909 - Soya Milk
-152 - Tree's a Crowd
-190 - Circle Through Three Points
-191 - Intersection
-270 - Lining Up
-378 - Intersecting Lines
-460 - Overlapping Rectangles
-476 - Points in Figures: Rectangles
-535 - Globetrotter
-634 - Polygon
-737 - Gleaming the Cubes
-811 - The Fortified Forest
-815 - Flooded!
-920 - Sunny Mountains
+* [10005 - Packing polygons](http://uva.onlinejudge.org/external//.html)
+* [10012 - How Big Is It?](http://uva.onlinejudge.org/external//.html)
+* [10065 - Useless Tile Packers](http://uva.onlinejudge.org/external//.html)
+* [10075 - Airlines](http://uva.onlinejudge.org/external//.html)
+* [10078 - The Art Gallery](http://uva.onlinejudge.org/external//.html)
+* [10088 - Trees on My Island](http://uva.onlinejudge.org/external//.html)
+* [10245 - The Closest Pair Problem](http://uva.onlinejudge.org/external//.html)
+* [10263 - Railway](http://uva.onlinejudge.org/external//.html)
+* [10286 - Trouble with a Pentagon](http://uva.onlinejudge.org/external//.html)
+* [10297 - Beavergnaw](http://uva.onlinejudge.org/external//.html)
+* [10301 - Rings and Glue](http://uva.onlinejudge.org/external//.html)
+* [10451 - Ancient Village Sports](http://uva.onlinejudge.org/external//.html)
+* [10566 - Crossed Ladders](http://uva.onlinejudge.org/external//.html)
+* [10577 - Bounding box](http://uva.onlinejudge.org/external//.html)
+* [10589 - Area](http://uva.onlinejudge.org/external//.html)
+* [10652 - Board Wrapping](http://uva.onlinejudge.org/external//.html)
+* [10678 - The Grazing Cow](http://uva.onlinejudge.org/external//.html)
+* [109 - SCUD Busters](http://uva.onlinejudge.org/external//.html)
+* [10902 - Pick-up Sticks](http://uva.onlinejudge.org/external//.html)
+* [10927 - Bright Lights](http://uva.onlinejudge.org/external//.html)
+* [1111 - Trash Removal](http://uva.onlinejudge.org/external//.html)
+* [11152 - Colourful Flowers](http://uva.onlinejudge.org/external//.html)
+* [11207 - The easiest way](http://uva.onlinejudge.org/external//.html)
+* [11227 - The silver bullet.](http://uva.onlinejudge.org/external//.html)
+* [11265 - The Sultan's Problem](http://uva.onlinejudge.org/external//.html)
+* [11447 - Reservoir logs](http://uva.onlinejudge.org/external//.html)
+* [11455 - Behold my quadrangle](http://uva.onlinejudge.org/external//.html)
+* [11507 - Bender B. Rodríguez Problem](http://uva.onlinejudge.org/external//.html)
+* [11646 - Athletics Track](http://uva.onlinejudge.org/external//.html)
+* [11817 - Tunnelling the Earth](http://uva.onlinejudge.org/external//.html)
+* [11834 - Elevator](http://uva.onlinejudge.org/external//.html)
+* [11909 - Soya Milk](http://uva.onlinejudge.org/external//.html)
+* [152 - Tree's a Crowd](http://uva.onlinejudge.org/external//.html)
+* [190 - Circle Through Three Points](http://uva.onlinejudge.org/external//.html)
+* [191 - Intersection](http://uva.onlinejudge.org/external//.html)
+* [270 - Lining Up](http://uva.onlinejudge.org/external//.html)
+* [378 - Intersecting Lines](http://uva.onlinejudge.org/external//.html)
+* [460 - Overlapping Rectangles](http://uva.onlinejudge.org/external//.html)
+* [476 - Points in Figures: Rectangles](http://uva.onlinejudge.org/external//.html)
+* [535 - Globetrotter](http://uva.onlinejudge.org/external//.html)
+* [634 - Polygon](http://uva.onlinejudge.org/external//.html)
+* [737 - Gleaming the Cubes](http://uva.onlinejudge.org/external//.html)
+* [811 - The Fortified Forest](http://uva.onlinejudge.org/external//.html)
+* [815 - Flooded!](http://uva.onlinejudge.org/external//.html)
+* [920 - Sunny Mountains](http://uva.onlinejudge.org/external//.html)
 
 8. Advanced Topics
 --------------------------------------------------
 
-10012 - How Big Is It?
-10181 - 15-Puzzle Problem
-10296 - Jogging Trails
-10309 - Turn the Lights Off
-1040 - The Traveling Judges Problem
-10482 - The Candyman Can
-10539 - Almost Prime Numbers
-10626 - Buying Coke
-10637 - Coprimes
-10717 - Mint
-1079 - A Careful Approach
-10816 - Travel in Desert
-10817 - Headmaster's Headache
-10856 - Recover Factorial
-10871 - Primed Subsequence
-10891 - Game of Sum
-10911 - Forming Quiz Teams
-1092 - Tracking Bio-bots
-10937 - Blackbeard the Pirate
-1098 - Robots on Ice
-10983 - Buy one, get the rest free
-1099 - Sharing Chocolate
-11065 - A Gentlemen's Agreement
-11105 - Semi-prime H-numbers
-11163 - Jaguar King
-11195 - Another n-Queen Problem
-11198 - Dancing Digits
-11212 - Editing a Book
-11227 - The silver bullet.
-11262 - Weird Fence
-11324 - The Largest Clique
-11329 - Curious Fleas
-11391 - Blobs in the Board
-11405 - Can U Win?
-11408 - Count DePrimes
-11428 - Cubes
-11474 - Dying Tree
-11516 - WiFi
-11525 - Permutation
-11574 - Colliding Traffic
-11610 - Reverse Prime
-11635 - Hotel booking
-1172 - The Bridges of Kolsberg
-11721 - Instant View of Big Bang
-11813 - Shopping
-11960 - Divisor Game
-1211 - Atomic Car Race
-12159 - Gun Fight
-1220 - Party at Hali-Bula
-1231 - ACORN
-1238 - Free Parentheses
-1252 - Twenty Questions
-295 - Fatman
-473 - Raucous Rockers
-976 - Bridge Building
-985 - Round and Round Maze
+* [10012 - How Big Is It?](http://uva.onlinejudge.org/external//.html)
+* [10181 - 15-Puzzle Problem](http://uva.onlinejudge.org/external//.html)
+* [10296 - Jogging Trails](http://uva.onlinejudge.org/external//.html)
+* [10309 - Turn the Lights Off](http://uva.onlinejudge.org/external//.html)
+* [1040 - The Traveling Judges Problem](http://uva.onlinejudge.org/external//.html)
+* [10482 - The Candyman Can](http://uva.onlinejudge.org/external//.html)
+* [10539 - Almost Prime Numbers](http://uva.onlinejudge.org/external//.html)
+* [10626 - Buying Coke](http://uva.onlinejudge.org/external//.html)
+* [10637 - Coprimes](http://uva.onlinejudge.org/external//.html)
+* [10717 - Mint](http://uva.onlinejudge.org/external//.html)
+* [1079 - A Careful Approach](http://uva.onlinejudge.org/external//.html)
+* [10816 - Travel in Desert](http://uva.onlinejudge.org/external//.html)
+* [10817 - Headmaster's Headache](http://uva.onlinejudge.org/external//.html)
+* [10856 - Recover Factorial](http://uva.onlinejudge.org/external//.html)
+* [10871 - Primed Subsequence](http://uva.onlinejudge.org/external//.html)
+* [10891 - Game of Sum](http://uva.onlinejudge.org/external//.html)
+* [10911 - Forming Quiz Teams](http://uva.onlinejudge.org/external//.html)
+* [1092 - Tracking Bio-bots](http://uva.onlinejudge.org/external//.html)
+* [10937 - Blackbeard the Pirate](http://uva.onlinejudge.org/external//.html)
+* [1098 - Robots on Ice](http://uva.onlinejudge.org/external//.html)
+* [10983 - Buy one, get the rest free](http://uva.onlinejudge.org/external//.html)
+* [1099 - Sharing Chocolate](http://uva.onlinejudge.org/external//.html)
+* [11065 - A Gentlemen's Agreement](http://uva.onlinejudge.org/external//.html)
+* [11105 - Semi-prime H-numbers](http://uva.onlinejudge.org/external//.html)
+* [11163 - Jaguar King](http://uva.onlinejudge.org/external//.html)
+* [11195 - Another n-Queen Problem](http://uva.onlinejudge.org/external//.html)
+* [11198 - Dancing Digits](http://uva.onlinejudge.org/external//.html)
+* [11212 - Editing a Book](http://uva.onlinejudge.org/external//.html)
+* [11227 - The silver bullet.](http://uva.onlinejudge.org/external//.html)
+* [11262 - Weird Fence](http://uva.onlinejudge.org/external//.html)
+* [11324 - The Largest Clique](http://uva.onlinejudge.org/external//.html)
+* [11329 - Curious Fleas](http://uva.onlinejudge.org/external//.html)
+* [11391 - Blobs in the Board](http://uva.onlinejudge.org/external//.html)
+* [11405 - Can U Win?](http://uva.onlinejudge.org/external//.html)
+* [11408 - Count DePrimes](http://uva.onlinejudge.org/external//.html)
+* [11428 - Cubes](http://uva.onlinejudge.org/external//.html)
+* [11474 - Dying Tree](http://uva.onlinejudge.org/external//.html)
+* [11516 - WiFi](http://uva.onlinejudge.org/external//.html)
+* [11525 - Permutation](http://uva.onlinejudge.org/external//.html)
+* [11574 - Colliding Traffic](http://uva.onlinejudge.org/external//.html)
+* [11610 - Reverse Prime](http://uva.onlinejudge.org/external//.html)
+* [11635 - Hotel booking](http://uva.onlinejudge.org/external//.html)
+* [1172 - The Bridges of Kolsberg](http://uva.onlinejudge.org/external//.html)
+* [11721 - Instant View of Big Bang](http://uva.onlinejudge.org/external//.html)
+* [11813 - Shopping](http://uva.onlinejudge.org/external//.html)
+* [11960 - Divisor Game](http://uva.onlinejudge.org/external//.html)
+* [1211 - Atomic Car Race](http://uva.onlinejudge.org/external//.html)
+* [12159 - Gun Fight](http://uva.onlinejudge.org/external//.html)
+* [1220 - Party at Hali-Bula](http://uva.onlinejudge.org/external//.html)
+* [1231 - ACORN](http://uva.onlinejudge.org/external//.html)
+* [1238 - Free Parentheses](http://uva.onlinejudge.org/external//.html)
+* [1252 - Twenty Questions](http://uva.onlinejudge.org/external//.html)
+* [295 - Fatman](http://uva.onlinejudge.org/external//.html)
+* [473 - Raucous Rockers](http://uva.onlinejudge.org/external//.html)
+* [976 - Bridge Building](http://uva.onlinejudge.org/external//.html)
+* [985 - Round and Round Maze](http://uva.onlinejudge.org/external//.html)
 
 9. Rare Topics
 --------------------------------------------------
 
-10017 - The Never Ending Towers of Hanoi
-10078 - The Art Gallery
-10213 - How Many Pieces of Land ?
-10243 - Fire! Fire!! Fire!!!
-10245 - The Closest Pair Problem
-10296 - Jogging Trails
-10316 - Airline Hub
-10319 - Manhattan
-10327 - Flip Sort
-10518 - How Many Calls?
-10655 - Contemplation! Algebra
-10720 - Graph Construction
-10746 - Crime Wave - The Sequel
-10771 - Barbarian tribes
-10774 - Repeated Josephus
-10888 - Warehouse
-10938 - Flea circus
-1096 - The Islands
-11111 - Generalized Matrioshkas
-11138 - Nuts and Bolts
-11167 - Monkeys in the Emei Mountain
-1121 - Subsequence
-11301 - Great Wall of China
-11319 - Stupid Sequence
-11351 - Last Man Standing
-11378 - Bey Battle
-11439 - Maximizing the ICPC
-11462 - Age Sort
-11476 - Factorizing Larget Integers
-11486 - Finding Paths in Grid
-11536 - Smallest Sub-Array
-11616 - Roman Numerals
-11643 - Knight Tour
-11719 - Gridland Airports
-11817 - Tunnelling the Earth
-11838 - Come and Go
-1184 - Air Raid
-11858 - Frosh Week
-120 - Stacks of Flapjacks
-1201 - Taxi Cab Scheme
-12238 - Ants Colony
-12397 - Roman Numerals
-1242 - Necklace
-1266 - Magic Square
-1347 - Tour
-344 - Roman Digititis
-348 - Optimal Array Multiplication Sequence
-439 - Knight Moves
-535 - Globetrotter
-551 - Nesting a Bunch of Brackets
-563 - Crimewave
-588 - Video Surveillance
-612 - DNA Sorting
-673 - Parentheses Balance
-727 - Equation
+* [10017 - The Never Ending Towers of Hanoi](http://uva.onlinejudge.org/external//.html)
+* [10078 - The Art Gallery](http://uva.onlinejudge.org/external//.html)
+* [10213 - How Many Pieces of Land ?](http://uva.onlinejudge.org/external//.html)
+* [10243 - Fire! Fire!! Fire!!!](http://uva.onlinejudge.org/external//.html)
+* [10245 - The Closest Pair Problem](http://uva.onlinejudge.org/external//.html)
+* [10296 - Jogging Trails](http://uva.onlinejudge.org/external//.html)
+* [10316 - Airline Hub](http://uva.onlinejudge.org/external//.html)
+* [10319 - Manhattan](http://uva.onlinejudge.org/external//.html)
+* [10327 - Flip Sort](http://uva.onlinejudge.org/external//.html)
+* [10518 - How Many Calls?](http://uva.onlinejudge.org/external//.html)
+* [10655 - Contemplation! Algebra](http://uva.onlinejudge.org/external//.html)
+* [10720 - Graph Construction](http://uva.onlinejudge.org/external//.html)
+* [10746 - Crime Wave - The Sequel](http://uva.onlinejudge.org/external//.html)
+* [10771 - Barbarian tribes](http://uva.onlinejudge.org/external//.html)
+* [10774 - Repeated Josephus](http://uva.onlinejudge.org/external//.html)
+* [10888 - Warehouse](http://uva.onlinejudge.org/external//.html)
+* [10938 - Flea circus](http://uva.onlinejudge.org/external//.html)
+* [1096 - The Islands](http://uva.onlinejudge.org/external//.html)
+* [11111 - Generalized Matrioshkas](http://uva.onlinejudge.org/external//.html)
+* [11138 - Nuts and Bolts](http://uva.onlinejudge.org/external//.html)
+* [11167 - Monkeys in the Emei Mountain](http://uva.onlinejudge.org/external//.html)
+* [1121 - Subsequence](http://uva.onlinejudge.org/external//.html)
+* [11301 - Great Wall of China](http://uva.onlinejudge.org/external//.html)
+* [11319 - Stupid Sequence](http://uva.onlinejudge.org/external//.html)
+* [11351 - Last Man Standing](http://uva.onlinejudge.org/external//.html)
+* [11378 - Bey Battle](http://uva.onlinejudge.org/external//.html)
+* [11439 - Maximizing the ICPC](http://uva.onlinejudge.org/external//.html)
+* [11462 - Age Sort](http://uva.onlinejudge.org/external//.html)
+* [11476 - Factorizing Larget Integers](http://uva.onlinejudge.org/external//.html)
+* [11486 - Finding Paths in Grid](http://uva.onlinejudge.org/external//.html)
+* [11536 - Smallest Sub-Array](http://uva.onlinejudge.org/external//.html)
+* [11616 - Roman Numerals](http://uva.onlinejudge.org/external//.html)
+* [11643 - Knight Tour](http://uva.onlinejudge.org/external//.html)
+* [11719 - Gridland Airports](http://uva.onlinejudge.org/external//.html)
+* [11817 - Tunnelling the Earth](http://uva.onlinejudge.org/external//.html)
+* [11838 - Come and Go](http://uva.onlinejudge.org/external//.html)
+* [1184 - Air Raid](http://uva.onlinejudge.org/external//.html)
+* [11858 - Frosh Week](http://uva.onlinejudge.org/external//.html)
+* [120 - Stacks of Flapjacks](http://uva.onlinejudge.org/external//.html)
+* [1201 - Taxi Cab Scheme](http://uva.onlinejudge.org/external//.html)
+* [12238 - Ants Colony](http://uva.onlinejudge.org/external//.html)
+* [12397 - Roman Numerals](http://uva.onlinejudge.org/external//.html)
+* [1242 - Necklace](http://uva.onlinejudge.org/external//.html)
+* [1266 - Magic Square](http://uva.onlinejudge.org/external//.html)
+* [1347 - Tour](http://uva.onlinejudge.org/external//.html)
+* [344 - Roman Digititis](http://uva.onlinejudge.org/external//.html)
+* [348 - Optimal Array Multiplication Sequence](http://uva.onlinejudge.org/external//.html)
+* [439 - Knight Moves](http://uva.onlinejudge.org/external//.html)
+* [535 - Globetrotter](http://uva.onlinejudge.org/external//.html)
+* [551 - Nesting a Bunch of Brackets](http://uva.onlinejudge.org/external//.html)
+* [563 - Crimewave](http://uva.onlinejudge.org/external//.html)
+* [588 - Video Surveillance](http://uva.onlinejudge.org/external//.html)
+* [612 - DNA Sorting](http://uva.onlinejudge.org/external//.html)
+* [673 - Parentheses Balance](http://uva.onlinejudge.org/external//.html)
+* [727 - Equation](http://uva.onlinejudge.org/external//.html)
