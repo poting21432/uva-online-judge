@@ -1,0 +1,1 @@
+Sort the given integers as A<B<C, and print B.
