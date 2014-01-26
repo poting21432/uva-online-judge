@@ -1,0 +1,1 @@
+用 backtracking 作 P n 取 k。
