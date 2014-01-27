@@ -1,0 +1,1 @@
+單純 backtracking，搞了半天 sample output 是誤導的，應該要輸出 9 步才對。

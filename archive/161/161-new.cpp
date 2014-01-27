@@ -14,7 +14,13 @@ vector<int> buffer;
 
 int N;
 vector<int> T;
-int green[TIME_LIMIT+1];
+
+struct Light
+{
+  int  tick;
+  char color; // 'G'->'Y'->'R'
+  int  cycle;
+};
 
 void printAnswer(int t)
 {
@@ -39,32 +45,6 @@ void printAnswer(int t)
 void solve()
 {
   N = T.size();
-/*
-  for ( int i=0; i<N; ++i )
-    printf("T[%d] = %d\n", i, T[i]);
-*/
-  memset(green, 0, sizeof(green));
-  int start = TIME_LIMIT;
-  for ( int i=0; i<N; ++i ) {
-    int offset   = T[i] * 2;
-    int duration = T[i] - 5;
-    if ( T[i] < start ) start = T[i];
-    for ( int j=0; j<=TIME_LIMIT; j+=offset ) {
-      //printf("(j, duration) = (%d, %d)\n", j, duration);
-      for ( int k=0; k<duration && j+k<=TIME_LIMIT; ++k ) {
-	++green[j+k];
-      }
-    }
-  }
-  for ( int t=start; t<=TIME_LIMIT; ++t ) {
-    //printf("green[t=%d] = %d\n", t, green[t]);
-    if ( green[t]==N ) {
-      printAnswer(t);
-      return;
-    }
-  }
-
-  puts("Signals fail to synchronise in 5 hours");
 }
 
 bool containsThreeZeros(char *str)
