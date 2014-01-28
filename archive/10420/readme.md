@@ -1,0 +1,1 @@
+最方便的作法就是設 map<string, set<string> >。
